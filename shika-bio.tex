@@ -10,42 +10,42 @@
 
 \tableofcontents
 
-
 % Biology Hands-On Activities
 \input{./tex/part-hands-on-activities.tex}
+\settocdepth{subsection}
 
-% Form I
-\chapter{Biology Activities for Form I}
+%% Form I
+%\chapter{Biology Activities for Form I}
 %\input{./tex/i-activities_intro-bio}
 %\input{./tex/i-activities_safety-environment}
 %\input{./tex/i-activities_health-immunity}
 %\input{./tex/i-activities_cell-structure-organization}
 %\input{./tex/i-activities_classification}
-
-% Form II
-\chapter{Biology Activities for Form II}
-%\input{./tex/ii-activities_classification}
+%
+%% Form II
+%\chapter{Biology Activities for Form II}
+%%\input{./tex/ii-activities_classification}
 %\input{./tex/ii-activities_nutrition}
 %\input{./tex/ii-activities_balance-nature}
 %\input{./tex/ii-activities_transport}
 %\input{./tex/ii-activities_gaseous-exchange-respiration}
-
-% Form III
-\chapter{Biology Activities for Form III}
-%\input{./tex/iii-activities_classification}
+%
+%% Form III
+%\chapter{Biology Activities for Form III}
+%%\input{./tex/iii-activities_classification}
 %\input{./tex/iii-activities_movement}
 %\input{./tex/iii-activities_coordination}
-%\input{./tex/iii-activities_excretion}
+%%\input{./tex/iii-activities_excretion}
 %\input{./tex/iii-activities_regulation}
 %\input{./tex/iii-activities_reproduction}
-
-% Form IV
-\chapter{Biology Activities for Form IV}
+%
+%% Form IV
+%\chapter{Biology Activities for Form IV}
 %\input{./tex/iv-activities_growth}
 %\input{./tex/iv-activities_genetics}
-%\input{./tex/iv-activities_classification}
+%%\input{./tex/iv-activities_classification}
 %\input{./tex/iv-activities_evolution}
-%\input{./tex/iv-activities_hiv-aids-stis}
+%%\input{./tex/iv-activities_hiv-aids-stis}
 
 
 % Biology Student Practical Worksheets
@@ -53,19 +53,26 @@
 
 
 \appendix
+\addcontentsline{toc}{part}{Appendix}
+\settocdepth{chapter}
 
-% Return ToC depth and counting depth to original values
-%\settocdepth{section}
-%\setcounter{secnumdepth}{2}
+% Materials and Equipment
+\input{./tex/part-materials-equipment.tex}
 
-% Return Chapter display to normal
-%\titlespacing*{\chapter}{0pt}{-10pt}{0pt}[50pt]
-%\titleformat{\chapter}[display]{\normalfont\huge\bfseries}{\chaptertitlename\thechapter}{20pt}{\Huge}
-
-% Local Materials List
 \input{./tex/local-materials-list.tex}
+\input{./tex/low-power-microscopy.tex}
+\input{./tex/modeling-materials.tex}
+\input{./tex/sources-of-chemicals.tex}
+\input{./tex/making-biology-solutions.tex} %???
+\input{./tex/collecting-specimens.tex}
+\input{./tex/preservation-of-specimens.tex}
+\input{./tex/storage-materials.tex}
 
-%\chapter{Shika Express Biology Demonstrations}
-\input{./tex/shika-express-bio}
+% Interactive Learning
+\input{./tex/part-interactive-learning.tex}
+
+\input{./tex/visual-aids-displays.tex}
+\input{./tex/science-outside-classroom.tex}
+\input{./tex/science-community.tex}
 
 \end{document}

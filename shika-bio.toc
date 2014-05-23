@@ -1,8 +1,65 @@
 
-\contentsline {part}{I\hspace {1em}Hands-On Activities}{2}{part.1}
-\contentsline {chapter}{\numberline {1}Biology Activities for Form I}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}Biology Activities for Form II}{4}{chapter.2}
-\contentsline {chapter}{\numberline {3}Biology Activities for Form III}{5}{chapter.3}
-\contentsline {chapter}{\numberline {4}Biology Activities for Form IV}{6}{chapter.4}
-\contentsline {chapter}{\numberline {A}Local Materials List}{7}{appendix.A}
-\contentsline {chapter}{\numberline {B}Shika Express Demonstrations for Biology}{8}{appendix.B}
+\contentsline {part}{I\hspace {1em}Hands-On Activities}{3}{part.1}
+\save@tocdepth \setcounter {tocdepth}{2}
+\contentsline {part}{Appendix}{4}{part.1}
+\save@tocdepth \setcounter {tocdepth}{0}
+\contentsline {chapter}{\numberline {A}Local Materials List}{4}{appendix.A}
+\contentsline {section}{\numberline {A.1}Balance}{5}{section.A.1}
+\contentsline {section}{\numberline {A.2}Beakers}{5}{section.A.2}
+\contentsline {section}{\numberline {A.3}Blowpipe}{5}{section.A.3}
+\contentsline {section}{\numberline {A.4}Bunsen Burner}{5}{section.A.4}
+\contentsline {section}{\numberline {A.5}Burettes}{5}{section.A.5}
+\contentsline {section}{\numberline {A.6}Containers}{5}{section.A.6}
+\contentsline {section}{\numberline {A.7}Crucible}{6}{section.A.7}
+\contentsline {section}{\numberline {A.8}Deflagrating Spoon}{6}{section.A.8}
+\contentsline {section}{\numberline {A.9}Delivery Tube}{6}{section.A.9}
+\contentsline {section}{\numberline {A.10}Drawing Board}{6}{section.A.10}
+\contentsline {section}{\numberline {A.11}Droppers}{6}{section.A.11}
+\contentsline {section}{\numberline {A.12}Electrodes}{6}{section.A.12}
+\contentsline {subsection}{\numberline {A.12.1}Graphite}{6}{subsection.A.12.1}
+\contentsline {subsection}{\numberline {A.12.2}Zinc}{6}{subsection.A.12.2}
+\contentsline {subsection}{\numberline {A.12.3}Iron}{7}{subsection.A.12.3}
+\contentsline {subsection}{\numberline {A.12.4}Copper}{7}{subsection.A.12.4}
+\contentsline {section}{\numberline {A.13}Filter Paper}{7}{section.A.13}
+\contentsline {section}{\numberline {A.14}Flasks}{7}{section.A.14}
+\contentsline {section}{\numberline {A.15}Funnel}{7}{section.A.15}
+\contentsline {section}{\numberline {A.16}Gloves}{8}{section.A.16}
+\contentsline {subsection}{\numberline {A.16.1}Latex gloves}{8}{subsection.A.16.1}
+\contentsline {subsection}{\numberline {A.16.2}Thick gloves}{8}{subsection.A.16.2}
+\contentsline {section}{\numberline {A.17}Goggles}{8}{section.A.17}
+\contentsline {section}{\numberline {A.18}Heat Sources}{8}{section.A.18}
+\contentsline {subsection}{\numberline {A.18.1}Heating Solutions}{8}{subsection.A.18.1}
+\contentsline {subsection}{\numberline {A.18.2}Heating Solids}{9}{subsection.A.18.2}
+\contentsline {subsection}{\numberline {A.18.3}Flame Tests}{9}{subsection.A.18.3}
+\contentsline {section}{\numberline {A.19}Indicator}{9}{section.A.19}
+\contentsline {section}{\numberline {A.20}Iron Filings}{9}{section.A.20}
+\contentsline {section}{\numberline {A.21}Masses}{9}{section.A.21}
+\contentsline {section}{\numberline {A.22}Measuring Cylinder}{9}{section.A.22}
+\contentsline {section}{\numberline {A.23}Metre Rule}{9}{section.A.23}
+\contentsline {section}{\numberline {A.24}Microscope}{9}{section.A.24}
+\contentsline {section}{\numberline {A.25}Mortar and Pestle}{9}{section.A.25}
+\contentsline {section}{\numberline {A.26}Optical Pins}{9}{section.A.26}
+\contentsline {section}{\numberline {A.27}Pipettes}{10}{section.A.27}
+\contentsline {section}{\numberline {A.28}Retort Stand}{10}{section.A.28}
+\contentsline {section}{\numberline {A.29}Scale Pans}{10}{section.A.29}
+\contentsline {section}{\numberline {A.30}Scalpels}{10}{section.A.30}
+\contentsline {section}{\numberline {A.31}Slides and Cover Slips}{10}{section.A.31}
+\contentsline {section}{\numberline {A.32}Spatula}{10}{section.A.32}
+\contentsline {section}{\numberline {A.33}Stoppers}{11}{section.A.33}
+\contentsline {section}{\numberline {A.34}Stopwatches}{11}{section.A.34}
+\contentsline {section}{\numberline {A.35}Test Tubes}{11}{section.A.35}
+\contentsline {subsection}{\numberline {A.35.1}Plastic Test Tubes}{11}{subsection.A.35.1}
+\contentsline {subsection}{\numberline {A.35.2}For Thermal Decomposition}{11}{subsection.A.35.2}
+\contentsline {section}{\numberline {A.36}Test Tube Brush}{11}{section.A.36}
+\contentsline {section}{\numberline {A.37}Test Tube Holder / Tongs}{11}{section.A.37}
+\contentsline {section}{\numberline {A.38}Test Tube Racks}{12}{section.A.38}
+\contentsline {section}{\numberline {A.39}Tripod Stands}{12}{section.A.39}
+\contentsline {section}{\numberline {A.40}Volumetric ``Glass''ware}{12}{section.A.40}
+\contentsline {section}{\numberline {A.41}Wash Bottle}{12}{section.A.41}
+\contentsline {section}{\numberline {A.42}Water Bath}{12}{section.A.42}
+\contentsline {section}{\numberline {A.43}Weights}{12}{section.A.43}
+\contentsline {subsection}{\numberline {A.43.1}Crude Weights}{12}{subsection.A.43.1}
+\contentsline {subsection}{\numberline {A.43.2}Adding Weight in Known Intervals}{12}{subsection.A.43.2}
+\contentsline {subsection}{\numberline {A.43.3}Precise Weights}{12}{subsection.A.43.3}
+\contentsline {section}{\numberline {A.44}White Tiles}{13}{section.A.44}
+\contentsline {section}{\numberline {A.45}Wire Gauze}{13}{section.A.45}

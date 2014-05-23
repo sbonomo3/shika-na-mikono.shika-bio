@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  27 APR 2014 00:51
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/W32TeX) (format=pdflatex 2013.12.5)  22 MAY 2014 20:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -393,16 +393,7 @@ Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
 \f@ncyO@erf=\skip75
 \f@ncyO@olf=\skip76
 \f@ncyO@orf=\skip77
-)
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 52.
-
-
-Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
-less on input line 53.
-
-) (./shika-bio.aux)
+)) (./shika-bio.aux)
 \openout1 = `shika-bio.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
@@ -419,7 +410,6 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 5.
 LaTeX Font Info:    ... okay on input line 5.
-
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -427,7 +417,7 @@ LaTeX Font Info:    ... okay on input line 5.
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: 
+* modes: twoside 
 * h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
 * v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
 * \paperwidth=597.50787pt
@@ -441,7 +431,7 @@ LaTeX Font Info:    ... okay on input line 5.
 * \headsep=25.0pt
 * \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=57.0pt
+* \marginparwidth=111.0pt
 * \marginparsep=11.0pt
 * \columnsep=10.0pt
 * \skip\footins=9.0pt plus 4.0pt minus 2.0pt
@@ -449,8 +439,8 @@ LaTeX Font Info:    ... okay on input line 5.
 * \voffset=0.0pt
 * \mag=1000
 * \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
+* \@twosidetrue
+* \@mparswitchtrue
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
@@ -512,107 +502,358 @@ LaTeX Info: Redefining \nameref on input line 5.
  (./tex/title.tex [1
 
 {c:/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]) (./shika-bio.t
-oc
-LaTeX Font Info:    Try loading font information for U+msa on input line 7.
-
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Try loading font information for U+msb on input line 7.
-
-(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+oc)
 \tf@toc=\write4
 \openout4 = `shika-bio.toc'.
 
 
-(./tex/part-hands-on-activities.texpdfTeX warning (ext4): destination with the 
-same identifier (name{page.1}) has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1 \part
-         {Hands-On Activities} [1
+(./tex/part-hands-on-activities.tex [2
 
-] [2
+] [3
 
-])
-Chapter 1.
-[3
-
-]
-Chapter 2.
-[4
-
-]
-Chapter 3.
-[5
-
-]
-Chapter 4.
-(./tex/local-materials-list.tex [6
-
-]
+]) (./tex/local-materials-list.tex
 Appendix A.
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 6.
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
 (c:/texlive/2013/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 6.
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
 
-Underfull \hbox (badness 10000) in paragraph at lines 11--12
+<./img/vso/using-local-materials.jpg, id=274, 542.025pt x 122.70844pt>
+File: ./img/vso/using-local-materials.jpg Graphic file (type jpg)
+
+<use ./img/vso/using-local-materials.jpg>
+Package pdftex.def Info: ./img/vso/using-local-materials.jpg used on input line
+ 18.
+(pdftex.def)             Requested size: 341.43306pt x 77.29922pt.
+
+<./img/vso/multi-purpose-bottle.jpg, id=275, 405.76593pt x 136.25906pt>
+File: ./img/vso/multi-purpose-bottle.jpg Graphic file (type jpg)
+
+<use ./img/vso/multi-purpose-bottle.jpg>
+Package pdftex.def Info: ./img/vso/multi-purpose-bottle.jpg used on input line 
+19.
+(pdftex.def)             Requested size: 341.43306pt x 114.6585pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--28
 
  []
 
-) (./tex/shika-express-bio.tex [7
+[4
 
-]
-Appendix B.
+ <./img/vso/using-local-materials.jpg> <./img/vso/multi-purpose-bottle.jpg>]
+LaTeX Font Info:    Try loading font information for U+msa on input line 111.
+
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 71.
- [8
+LaTeX Font Info:    Try loading font information for U+msb on input line 111.
 
-]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 71.
- (./shika-bio.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 71.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 71.
+(c:/texlive/2013/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+<./img/beam-balance.png, id=358, 239.39438pt x 210.03468pt>
+File: ./img/beam-balance.png Graphic file (type png)
+
+<use ./img/beam-balance.png>
+Package pdftex.def Info: ./img/beam-balance.png used on input line 114.
+(pdftex.def)             Requested size: 203.83417pt x 178.83798pt.
+
+<./img/vso/beakers.jpg, id=360, 331.99031pt x 94.10156pt>
+File: ./img/vso/beakers.jpg Graphic file (type jpg)
+
+<use ./img/vso/beakers.jpg>
+Package pdftex.def Info: ./img/vso/beakers.jpg used on input line 125.
+(pdftex.def)             Requested size: 227.62204pt x 64.51947pt.
+
+Overfull \hbox (6.13809pt too wide) in paragraph at lines 125--126
+ [] 
+ []
+
+<./img/source/blowpipe.jpg, id=361, 276.28218pt x 257.46187pt>
+File: ./img/source/blowpipe.jpg Graphic file (type jpg)
+
+<use ./img/source/blowpipe.jpg>
+Package pdftex.def Info: ./img/source/blowpipe.jpg used on input line 138.
+(pdftex.def)             Requested size: 181.18439pt x 168.84106pt.
 
 
-Package rerunfilecheck Warning: File `shika-bio.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
+LaTeX Warning: Reference `cha:burettes' on page 5 undefined on input line 157.
 
-Package rerunfilecheck Info: Checksums for `shika-bio.out':
-(rerunfilecheck)             Before: B5F847E3D50374ACD2FABD531563FE1F;598
-(rerunfilecheck)             After:  21A1825F8B0ECE6F40632E9602A85EC0;482.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 71.
+
+LaTeX Warning: Reference `cha:burettes' on page 5 undefined on input line 157.
+
+<./img/source/volumetric.jpg, id=364, 338.01282pt x 195.73125pt>
+File: ./img/source/volumetric.jpg Graphic file (type jpg)
+
+<use ./img/source/volumetric.jpg>
+Package pdftex.def Info: ./img/source/volumetric.jpg used on input line 189.
+(pdftex.def)             Requested size: 181.18439pt x 104.91975pt.
+ [5 <./img/beam-balance.png> <./img/vso/beakers.jpg> <./img/source/blowpipe.jpg
+>]
+<./img/vso/crucible.jpg, id=386, 169.38281pt x 85.82062pt>
+File: ./img/vso/crucible.jpg Graphic file (type jpg)
+
+<use ./img/vso/crucible.jpg>
+Package pdftex.def Info: ./img/vso/crucible.jpg used on input line 199.
+(pdftex.def)             Requested size: 181.18439pt x 91.80356pt.
+
+<./img/source/deflagrating-spoon.jpg, id=387, 230.36063pt x 280.04625pt>
+File: ./img/source/deflagrating-spoon.jpg Graphic file (type jpg)
+
+<use ./img/source/deflagrating-spoon.jpg>
+Package pdftex.def Info: ./img/source/deflagrating-spoon.jpg used on input line
+ 209.
+(pdftex.def)             Requested size: 135.89174pt x 165.2002pt.
+
+<./img/vso/tubes.jpg, id=388, 262.73157pt x 298.11375pt>
+File: ./img/vso/tubes.jpg Graphic file (type jpg)
+
+<use ./img/vso/tubes.jpg>
+Package pdftex.def Info: ./img/vso/tubes.jpg used on input line 218.
+(pdftex.def)             Requested size: 203.83417pt x 231.29504pt.
+
+<./img/vso/electrodes.jpg, id=389, 313.17pt x 157.33781pt>
+File: ./img/vso/electrodes.jpg Graphic file (type jpg)
+
+<use ./img/vso/electrodes.jpg>
+Package pdftex.def Info: ./img/vso/electrodes.jpg used on input line 239.
+(pdftex.def)             Requested size: 203.83417pt x 102.41pt.
+ [6 <./img/source/volumetric.jpg> <./img/vso/crucible.jpg> <./img/source/deflag
+rating-spoon.jpg> <./img/vso/tubes.jpg> <./img/vso/electrodes.jpg>] <./img/sour
+ce/dry-cell.jpg, id=394, 252.945pt x 271.0125pt>
+File: ./img/source/dry-cell.jpg Graphic file (type jpg)
+
+<use ./img/source/dry-cell.jpg>
+Package pdftex.def Info: ./img/source/dry-cell.jpg used on input line 251.
+(pdftex.def)             Requested size: 181.18439pt x 194.1281pt.
+
+<./img/source/filter-paper.jpg, id=395, 219.82124pt x 239.39438pt>
+File: ./img/source/filter-paper.jpg Graphic file (type jpg)
+
+<use ./img/source/filter-paper.jpg>
+Package pdftex.def Info: ./img/source/filter-paper.jpg used on input line 316.
+(pdftex.def)             Requested size: 181.18439pt x 197.32379pt.
+
+<./img/vso/funnels.jpg, id=396, 274.02374pt x 216.05719pt>
+File: ./img/vso/funnels.jpg Graphic file (type jpg)
+
+<use ./img/vso/funnels.jpg>
+Package pdftex.def Info: ./img/vso/funnels.jpg used on input line 334.
+(pdftex.def)             Requested size: 221.95676pt x 175.00864pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 334--335
+ [] 
+ []
+
+[7 <./img/source/dry-cell.jpg> <./img/source/filter-paper.jpg> <./img/vso/funne
+ls.jpg>] <./img/source/goggles.jpg, id=402, 254.45062pt x 453.94594pt>
+File: ./img/source/goggles.jpg Graphic file (type jpg)
+
+<use ./img/source/goggles.jpg>
+Package pdftex.def Info: ./img/source/goggles.jpg used on input line 365.
+(pdftex.def)             Requested size: 181.18439pt x 323.25282pt.
+
+<./img/source/heat-sources.jpg, id=403, 411.78844pt x 236.38312pt>
+File: ./img/source/heat-sources.jpg Graphic file (type jpg)
+
+<use ./img/source/heat-sources.jpg>
+Package pdftex.def Info: ./img/source/heat-sources.jpg used on input line 377.
+(pdftex.def)             Requested size: 221.95676pt x 127.41052pt.
+
+<./img/source/heat-sources-2.jpg, id=404, 287.57437pt x 350.81062pt>
+File: ./img/source/heat-sources-2.jpg Graphic file (type jpg)
+
+<use ./img/source/heat-sources-2.jpg>
+Package pdftex.def Info: ./img/source/heat-sources-2.jpg used on input line 378
+.
+(pdftex.def)             Requested size: 221.95676pt x 270.7727pt.
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 377--379
+ [] 
+ []
+
+
+Overfull \hbox (0.47281pt too wide) in paragraph at lines 377--379
+ [] 
+ []
+
+[8 <./img/source/goggles.jpg> <./img/source/heat-sources.jpg> <./img/source/hea
+t-sources-2.jpg>]
+Missing character: There is no â in font cmr10!
+Missing character: There is no € in font cmr10!
+Missing character: There is no “ in font cmr10!
+
+<./img/vso/making-indicators.jpg, id=409, 247.67531pt x 126.4725pt>
+File: ./img/vso/making-indicators.jpg Graphic file (type jpg)
+
+<use ./img/vso/making-indicators.jpg>
+Package pdftex.def Info: ./img/vso/making-indicators.jpg used on input line 414
+.
+(pdftex.def)             Requested size: 181.18439pt x 92.51906pt.
+
+<./img/vso/meas-cyl.jpg, id=412, 114.4275pt x 122.70844pt>
+File: ./img/vso/meas-cyl.jpg Graphic file (type jpg)
+
+<use ./img/vso/meas-cyl.jpg>
+Package pdftex.def Info: ./img/vso/meas-cyl.jpg used on input line 435.
+(pdftex.def)             Requested size: 90.5922pt x 97.15204pt.
+
+
+LaTeX Warning: Reference `cha:microscopy' on page 9 undefined on input line 447
+.
+
+
+LaTeX Warning: Reference `cha:microscopy' on page 9 undefined on input line 447
+.
+
+<./img/vso/mortar-pestle.jpg, id=413, 180.675pt x 74.52844pt>
+File: ./img/vso/mortar-pestle.jpg Graphic file (type jpg)
+
+<use ./img/vso/mortar-pestle.jpg>
+Package pdftex.def Info: ./img/vso/mortar-pestle.jpg used on input line 477.
+(pdftex.def)             Requested size: 142.26378pt x 58.68462pt.
+ [9 <./img/vso/making-indicators.jpg> <./img/vso/meas-cyl.jpg> <./img/vso/morta
+r-pestle.jpg>]
+<./img/source/syringe.jpg, id=418, 60.225pt x 190.46156pt>
+File: ./img/source/syringe.jpg Graphic file (type jpg)
+
+<use ./img/source/syringe.jpg>
+Package pdftex.def Info: ./img/source/syringe.jpg used on input line 501.
+(pdftex.def)             Requested size: 45.29955pt x 143.2643pt.
+
+<./img/source/scale-pans.png, id=419, 407.27156pt x 167.12437pt>
+File: ./img/source/scale-pans.png Graphic file (type png)
+
+<use ./img/source/scale-pans.png>
+Package pdftex.def Info: ./img/source/scale-pans.png used on input line 548.
+(pdftex.def)             Requested size: 227.62204pt x 93.40538pt.
+
+Overfull \hbox (6.13809pt too wide) in paragraph at lines 548--549
+ [] 
+ []
+
+<./img/source/scalpel.jpg, id=420, 211.54031pt x 152.82094pt>
+File: ./img/source/scalpel.jpg Graphic file (type jpg)
+
+<use ./img/source/scalpel.jpg>
+Package pdftex.def Info: ./img/source/scalpel.jpg used on input line 559.
+(pdftex.def)             Requested size: 181.18439pt x 130.89642pt.
+
+<./img/source/slide-cover-slip.jpg, id=421, 258.21469pt x 188.20313pt>
+File: ./img/source/slide-cover-slip.jpg Graphic file (type jpg)
+
+<use ./img/source/slide-cover-slip.jpg>
+Package pdftex.def Info: ./img/source/slide-cover-slip.jpg used on input line 5
+72.
+(pdftex.def)             Requested size: 181.18439pt x 132.06291pt.
+
+<./img/source/spatula.jpg, id=422, 268.75406pt x 258.21469pt>
+File: ./img/source/spatula.jpg Graphic file (type jpg)
+
+<use ./img/source/spatula.jpg>
+Package pdftex.def Info: ./img/source/spatula.jpg used on input line 586.
+(pdftex.def)             Requested size: 181.18439pt x 174.07857pt.
+ [10 <./img/source/syringe.jpg> <./img/source/scale-pans.png> <./img/source/sca
+lpel.jpg> <./img/source/slide-cover-slip.jpg>]
+<./img/source/stoppers.jpg, id=428, 222.07968pt x 288.3272pt>
+File: ./img/source/stoppers.jpg Graphic file (type jpg)
+
+<use ./img/source/stoppers.jpg>
+Package pdftex.def Info: ./img/source/stoppers.jpg used on input line 612.
+(pdftex.def)             Requested size: 135.89174pt x 176.42926pt.
+File: ./img/source/syringe.jpg Graphic file (type jpg)
+ <use ./img/source/syringe.jpg>
+Package pdftex.def Info: ./img/source/syringe.jpg used on input line 630.
+(pdftex.def)             Requested size: 45.29955pt x 143.2643pt.
+
+<./img/vso/test-tube-brush.jpg, id=431, 238.64156pt x 97.86563pt>
+File: ./img/vso/test-tube-brush.jpg Graphic file (type jpg)
+
+<use ./img/vso/test-tube-brush.jpg>
+Package pdftex.def Info: ./img/vso/test-tube-brush.jpg used on input line 643.
+(pdftex.def)             Requested size: 203.83417pt x 83.59084pt.
+
+Underfull \hbox (badness 7397) in paragraph at lines 646--646
+ |[]\OT1/cmr/bx/n/14.4 Test Tube Holder /
+ []
+
+<./img/vso/test-tube-holder.jpg, id=432, 194.22563pt x 117.43875pt>
+File: ./img/vso/test-tube-holder.jpg Graphic file (type jpg)
+
+<use ./img/vso/test-tube-holder.jpg>
+Package pdftex.def Info: ./img/vso/test-tube-holder.jpg used on input line 653.
+
+(pdftex.def)             Requested size: 203.83417pt x 123.25159pt.
+ [11 <./img/source/spatula.jpg> <./img/source/stoppers.jpg> <./img/vso/test-tub
+e-brush.jpg> <./img/vso/test-tube-holder.jpg>] <./img/vso/test-tube-rack.jpg, i
+d=438, 314.67563pt x 204.765pt>
+File: ./img/vso/test-tube-rack.jpg Graphic file (type jpg)
+
+<use ./img/vso/test-tube-rack.jpg>
+Package pdftex.def Info: ./img/vso/test-tube-rack.jpg used on input line 663.
+(pdftex.def)             Requested size: 203.83417pt x 132.63948pt.
+
+<./img/vso/tripod-stand.jpg, id=439, 213.79875pt x 238.64156pt>
+File: ./img/vso/tripod-stand.jpg Graphic file (type jpg)
+
+<use ./img/vso/tripod-stand.jpg>
+Package pdftex.def Info: ./img/vso/tripod-stand.jpg used on input line 673.
+(pdftex.def)             Requested size: 142.26378pt x 158.79295pt.
+
+<./img/source/trough.jpg, id=443, 237.88875pt x 263.48438pt>
+File: ./img/source/trough.jpg Graphic file (type jpg)
+
+<use ./img/source/trough.jpg>
+Package pdftex.def Info: ./img/source/trough.jpg used on input line 694.
+(pdftex.def)             Requested size: 181.18439pt x 200.68842pt.
+ [12 <./img/vso/test-tube-rack.jpg> <./img/vso/tripod-stand.jpg> <./img/source/
+trough.jpg>]
+<./img/source/wire-gauze.jpg, id=448, 277.78781pt x 137.01187pt>
+File: ./img/source/wire-gauze.jpg Graphic file (type jpg)
+
+<use ./img/source/wire-gauze.jpg>
+Package pdftex.def Info: ./img/source/wire-gauze.jpg used on input line 754.
+(pdftex.def)             Requested size: 181.18439pt x 89.36607pt.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 72.
+ [13 <./img/source/wire-gauze.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 72.
+
+(./shika-bio.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 72.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 72.
+Package rerunfilecheck Info: File `shika-bio.out' has not changed.
+(rerunfilecheck)             Checksum: 2953D185016FE6FD26345AFBE509C18A;3824.
+
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 72.
  ) 
 Here is how much of TeX's memory you used:
- 7417 strings out of 493315
- 107327 string characters out of 6141455
- 213455 words of memory out of 5000000
- 10736 multiletter control sequences out of 15000+600000
- 8068 words of font info for 31 fonts, out of 8000000 for 9000
+ 7794 strings out of 493315
+ 114544 string characters out of 6141455
+ 222307 words of memory out of 5000000
+ 10977 multiletter control sequences out of 15000+600000
+ 9019 words of font info for 34 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 41i,11n,45p,508b,349s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{subsection.4.1.1} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.4.1} has been referenced but does not exist
-, replaced by a fixed one
-
-<c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texli
-ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2013/t
-exmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2013/texmf-dis
-t/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2013/texmf-dist/fonts/ty
-pe1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmsy10.pfb>
-Output written on shika-bio.pdf (9 pages, 85102 bytes).
+ 41i,11n,45p,598b,726s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/tex
+live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2013
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><c:/texlive/2013/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2013/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2013/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><c:/texlive/2013/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmti10.pfb>
+Output written on shika-bio.pdf (13 pages, 931792 bytes).
 PDF statistics:
- 121 PDF objects out of 1000 (max. 8388607)
- 102 compressed objects within 2 object streams
- 19 named destinations out of 1000 (max. 500000)
- 73 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 507 PDF objects out of 1000 (max. 8388607)
+ 447 compressed objects within 5 object streams
+ 121 named destinations out of 1000 (max. 500000)
+ 652 words of extra memory for PDF output out of 10000 (max. 10000000)
 
