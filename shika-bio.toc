@@ -13,416 +13,420 @@
 \contentsline {subsection}{\numberline {1.1.8}Keeping a Written Record}{9}{subsection.1.1.8}
 \contentsline {subsection}{\numberline {1.1.9}Transport of Water}{9}{subsection.1.1.9}
 \contentsline {subsection}{\numberline {1.1.10}Number of Leaves and Water Loss}{9}{subsection.1.1.10}
-\contentsline {section}{\numberline {1.2}Safety in Our Environment}{10}{section.1.2}
-\contentsline {subsection}{\numberline {1.2.1}Biodegradable Waste}{10}{subsection.1.2.1}
-\contentsline {subsection}{\numberline {1.2.2}Trash Journal}{10}{subsection.1.2.2}
-\contentsline {section}{\numberline {1.3}Health and Immunity}{11}{section.1.3}
-\contentsline {subsection}{\numberline {1.3.1}Coughs and Sneezes \hfill \\ Spread Diseases}{11}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {1.3.2}Smoking and Health}{11}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {1.3.3}Water Baby}{11}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {1.3.4}Oral Rehydration Solution}{12}{subsection.1.3.4}
-\contentsline {subsection}{\numberline {1.3.5}HIV Acting}{12}{subsection.1.3.5}
-\contentsline {subsection}{\numberline {1.3.6}Passing On HIV}{12}{subsection.1.3.6}
-\contentsline {section}{\numberline {1.4}Cell Structure and Organization}{13}{section.1.4}
-\contentsline {subsection}{\numberline {1.4.1}Cells, Tissues, Organs}{13}{subsection.1.4.1}
-\contentsline {subsection}{\numberline {1.4.2}Cell Models}{13}{subsection.1.4.2}
-\contentsline {subsection}{\numberline {1.4.3}Looking at Cells}{13}{subsection.1.4.3}
-\contentsline {subsection}{\numberline {1.4.4}How Many Cells?}{13}{subsection.1.4.4}
-\contentsline {subsection}{\numberline {1.4.5}Simple Microscope}{14}{subsection.1.4.5}
-\contentsline {subsection}{\numberline {1.4.6}Cell Size}{14}{subsection.1.4.6}
-\contentsline {section}{\numberline {1.5}Classification of Living Things}{15}{section.1.5}
-\contentsline {subsection}{\numberline {1.5.1}Arranging Shapes}{15}{subsection.1.5.1}
-\contentsline {subsection}{\numberline {1.5.2}Classification at the Duka}{15}{subsection.1.5.2}
-\contentsline {subsection}{\numberline {1.5.3}Find a Missing Person}{15}{subsection.1.5.3}
-\contentsline {subsection}{\numberline {1.5.4}Classifying Leaves}{16}{subsection.1.5.4}
-\contentsline {subsection}{\numberline {1.5.5}Scavenger Hunt}{16}{subsection.1.5.5}
-\contentsline {subsection}{\numberline {1.5.6}Display Boards}{16}{subsection.1.5.6}
-\contentsline {chapter}{\numberline {2}Biology Activities for Form II}{17}{chapter.2}
-\contentsline {section}{\numberline {2.1}Nutrition}{17}{section.2.1}
-\contentsline {subsection}{\numberline {2.1.1}Lipids - Fats and Oils}{17}{subsection.2.1.1}
-\contentsline {subsection}{\numberline {2.1.2}Solubility of Fats and Oils}{17}{subsection.2.1.2}
-\contentsline {subsection}{\numberline {2.1.3}Carbohydrates}{17}{subsection.2.1.3}
-\contentsline {subsection}{\numberline {2.1.4}Simple Sugar Model}{17}{subsection.2.1.4}
-\contentsline {subsection}{\numberline {2.1.5}Protein Molecules}{18}{subsection.2.1.5}
-\contentsline {subsection}{\numberline {2.1.6}Test for Lipids}{18}{subsection.2.1.6}
-\contentsline {subsection}{\numberline {2.1.7}Test for Protein}{18}{subsection.2.1.7}
-\contentsline {subsection}{\numberline {2.1.8}Test for Starch}{18}{subsection.2.1.8}
-\contentsline {subsection}{\numberline {2.1.9}Test for Reducing Sugars}{19}{subsection.2.1.9}
-\contentsline {subsection}{\numberline {2.1.10}Test for Non-Reducing \hfill \\ Sugars}{19}{subsection.2.1.10}
-\contentsline {subsection}{\numberline {2.1.11}Models for Digestion}{19}{subsection.2.1.11}
-\contentsline {subsection}{\numberline {2.1.12}Digestive System Model}{20}{subsection.2.1.12}
-\contentsline {subsection}{\numberline {2.1.13}Invisible Saliva Ink}{20}{subsection.2.1.13}
-\contentsline {subsection}{\numberline {2.1.14}Salts in Saliva}{20}{subsection.2.1.14}
-\contentsline {subsection}{\numberline {2.1.15}Swallowing Upside Down}{20}{subsection.2.1.15}
-\contentsline {subsection}{\numberline {2.1.16}Peristalsis Model}{21}{subsection.2.1.16}
-\contentsline {subsection}{\numberline {2.1.17}Intestine Length}{21}{subsection.2.1.17}
-\contentsline {subsection}{\numberline {2.1.18}Absorption Model}{21}{subsection.2.1.18}
-\contentsline {subsection}{\numberline {2.1.19}Tooth Decay from Soda}{21}{subsection.2.1.19}
-\contentsline {subsection}{\numberline {2.1.20}Nutrients from Soil}{22}{subsection.2.1.20}
-\contentsline {subsection}{\numberline {2.1.21}Photosynthesis Model}{22}{subsection.2.1.21}
-\contentsline {subsection}{\numberline {2.1.22}Photosynthesis Equation Game}{22}{subsection.2.1.22}
-\contentsline {subsection}{\numberline {2.1.23}Leaf Structure}{22}{subsection.2.1.23}
-\contentsline {subsection}{\numberline {2.1.24}Plants Need Light}{23}{subsection.2.1.24}
-\contentsline {subsection}{\numberline {2.1.25}Extracting Chlorophyll}{23}{subsection.2.1.25}
-\contentsline {subsection}{\numberline {2.1.26}Chlorophyll and \hfill \\ Photosynthesis}{23}{subsection.2.1.26}
-\contentsline {subsection}{\numberline {2.1.27}$\mathrm {\textbf {C}\textbf {O}_\textbf {2}}$ and Photosynthesis}{23}{subsection.2.1.27}
-\contentsline {subsection}{\numberline {2.1.28}Starch as a Product of \hfill \\ Photosynthesis}{24}{subsection.2.1.28}
-\contentsline {subsection}{\numberline {2.1.29}Oxygen as a Product of \hfill \\ Photosynthesis}{24}{subsection.2.1.29}
-\contentsline {subsection}{\numberline {2.1.30}Food Preservatives}{24}{subsection.2.1.30}
-\contentsline {section}{\numberline {2.2}Balance of Nature}{25}{section.2.2}
-\contentsline {subsection}{\numberline {2.2.1}Camouflage and Protection}{25}{subsection.2.2.1}
-\contentsline {subsection}{\numberline {2.2.2}Reactions to Light}{25}{subsection.2.2.2}
-\contentsline {subsection}{\numberline {2.2.3}Reactions to Humidity}{25}{subsection.2.2.3}
-\contentsline {subsection}{\numberline {2.2.4}Aquarium}{25}{subsection.2.2.4}
-\contentsline {subsection}{\numberline {2.2.5}Terrarium}{26}{subsection.2.2.5}
-\contentsline {subsection}{\numberline {2.2.6}Carbon Cycle Cards}{26}{subsection.2.2.6}
-\contentsline {subsection}{\numberline {2.2.7}Water Cycle}{26}{subsection.2.2.7}
-\contentsline {subsection}{\numberline {2.2.8}Nitrogen Cycle}{26}{subsection.2.2.8}
-\contentsline {subsection}{\numberline {2.2.9}Food Chain Links}{27}{subsection.2.2.9}
-\contentsline {subsection}{\numberline {2.2.10}Food Webs}{27}{subsection.2.2.10}
-\contentsline {subsection}{\numberline {2.2.11}Food Web Connections}{27}{subsection.2.2.11}
-\contentsline {section}{\numberline {2.3}Transport of Materials in Living Things}{28}{section.2.3}
-\contentsline {subsection}{\numberline {2.3.1}Diffusion in Liquids}{28}{subsection.2.3.1}
-\contentsline {subsection}{\numberline {2.3.2}Smelling Particles}{28}{subsection.2.3.2}
-\contentsline {subsection}{\numberline {2.3.3}Semi-Permeable Membranes}{28}{subsection.2.3.3}
-\contentsline {subsection}{\numberline {2.3.4}Osmosis in Dead and Living Tissues}{28}{subsection.2.3.4}
-\contentsline {subsection}{\numberline {2.3.5}Vanilla Balloon}{29}{subsection.2.3.5}
-\contentsline {subsection}{\numberline {2.3.6}Osmosis/Active Transport \hfill \\ Model}{29}{subsection.2.3.6}
-\contentsline {subsection}{\numberline {2.3.7}Potato Osmosis}{29}{subsection.2.3.7}
-\contentsline {subsection}{\numberline {2.3.8}Guard Cells in Osmosis}{29}{subsection.2.3.8}
-\contentsline {subsection}{\numberline {2.3.9}Heart Pump Action}{30}{subsection.2.3.9}
-\contentsline {subsection}{\numberline {2.3.10}Heart Model}{30}{subsection.2.3.10}
-\contentsline {subsection}{\numberline {2.3.11}Measuring Pulse}{30}{subsection.2.3.11}
-\contentsline {subsection}{\numberline {2.3.12}Simple Stethoscope}{30}{subsection.2.3.12}
-\contentsline {subsection}{\numberline {2.3.13}Blood Vessel Model}{31}{subsection.2.3.13}
-\contentsline {subsection}{\numberline {2.3.14}Blood as a Transporter}{31}{subsection.2.3.14}
-\contentsline {subsection}{\numberline {2.3.15}Red and White Blood Cell Models}{31}{subsection.2.3.15}
-\contentsline {subsection}{\numberline {2.3.16}Engulfing Model}{31}{subsection.2.3.16}
-\contentsline {subsection}{\numberline {2.3.17}Germs and Antibodies}{32}{subsection.2.3.17}
-\contentsline {subsection}{\numberline {2.3.18}Blood Clotting}{32}{subsection.2.3.18}
-\contentsline {subsection}{\numberline {2.3.19}Transfusion Checkers}{32}{subsection.2.3.19}
-\contentsline {subsection}{\numberline {2.3.20}Transfusion Card Game}{32}{subsection.2.3.20}
-\contentsline {subsection}{\numberline {2.3.21}Circulation Game}{33}{subsection.2.3.21}
-\contentsline {subsection}{\numberline {2.3.22}Xylem and Phloem Game}{33}{subsection.2.3.22}
-\contentsline {subsection}{\numberline {2.3.23}Root Hairs}{33}{subsection.2.3.23}
-\contentsline {subsection}{\numberline {2.3.24}Capillary Rise}{34}{subsection.2.3.24}
-\contentsline {subsection}{\numberline {2.3.25}Automatic Irrigation}{34}{subsection.2.3.25}
-\contentsline {subsection}{\numberline {2.3.26}Water Movement in Plants}{34}{subsection.2.3.26}
-\contentsline {subsection}{\numberline {2.3.27}Transpiration}{34}{subsection.2.3.27}
-\contentsline {section}{\numberline {2.4}Gaseous Exchange and Respiration}{35}{section.2.4}
-\contentsline {subsection}{\numberline {2.4.1}Breathing Model}{35}{subsection.2.4.1}
-\contentsline {subsection}{\numberline {2.4.2}Lung Capacity}{35}{subsection.2.4.2}
-\contentsline {subsection}{\numberline {2.4.3}Gas Exchange Game}{35}{subsection.2.4.3}
-\contentsline {subsection}{\numberline {2.4.4}Gas Exchange Board Game}{36}{subsection.2.4.4}
-\contentsline {subsection}{\numberline {2.4.5}Germinating Seeds}{36}{subsection.2.4.5}
-\contentsline {subsection}{\numberline {2.4.6}Respiration Cards}{36}{subsection.2.4.6}
-\contentsline {subsection}{\numberline {2.4.7}Respiration Plates}{36}{subsection.2.4.7}
-\contentsline {subsection}{\numberline {2.4.8}Exhaling \textbf {CO}$_\textbf {2}$}{37}{subsection.2.4.8}
-\contentsline {subsection}{\numberline {2.4.9}Yeast Balloons}{37}{subsection.2.4.9}
-\contentsline {subsection}{\numberline {2.4.10}Fermenting Fruits}{37}{subsection.2.4.10}
-\contentsline {subsection}{\numberline {2.4.11}Fermenting Sugar}{37}{subsection.2.4.11}
-\contentsline {chapter}{\numberline {3}Biology Activities for Form III}{38}{chapter.3}
-\contentsline {section}{\numberline {3.1}Movement}{38}{section.3.1}
-\contentsline {subsection}{\numberline {3.1.1}Paper Skeleton}{38}{subsection.3.1.1}
-\contentsline {subsubsection}{Skull and Pelvis}{38}{subsubsection*.2}
-\contentsline {subsubsection}{Limbs}{38}{subsubsection*.3}
-\contentsline {subsubsection}{Rib Cage}{38}{subsubsection*.4}
-\contentsline {subsubsection}{Backbone}{38}{subsubsection*.5}
-\contentsline {subsubsection}{Hands and Feet}{38}{subsubsection*.6}
-\contentsline {subsection}{\numberline {3.1.2}Robotic Hand}{39}{subsection.3.1.2}
-\contentsline {subsubsection}{Hand Structure}{39}{subsubsection*.7}
-\contentsline {subsubsection}{Fingers}{39}{subsubsection*.8}
-\contentsline {subsubsection}{Attach Fingers}{39}{subsubsection*.9}
-\contentsline {subsubsection}{Moving Joints}{40}{subsubsection*.10}
-\contentsline {subsubsection}{Completing the Hand}{40}{subsubsection*.11}
-\contentsline {subsection}{\numberline {3.1.3}Ball and Socket}{40}{subsection.3.1.3}
-\contentsline {subsection}{\numberline {3.1.4}Hinge Joint}{40}{subsection.3.1.4}
-\contentsline {subsection}{\numberline {3.1.5}Sliding Joint}{40}{subsection.3.1.5}
-\contentsline {subsection}{\numberline {3.1.6}Forearm Lever}{41}{subsection.3.1.6}
-\contentsline {subsection}{\numberline {3.1.7}Muscles Work in Pairs}{41}{subsection.3.1.7}
-\contentsline {subsection}{\numberline {3.1.8}Effect of Load on Muscle}{41}{subsection.3.1.8}
-\contentsline {subsection}{\numberline {3.1.9}Support of the Spinal Column}{41}{subsection.3.1.9}
-\contentsline {section}{\numberline {3.2}Coordination}{42}{section.3.2}
-\contentsline {subsection}{\numberline {3.2.1}Nerve Model}{42}{subsection.3.2.1}
-\contentsline {subsection}{\numberline {3.2.2}Neuron Models}{42}{subsection.3.2.2}
-\contentsline {subsection}{\numberline {3.2.3}Blinking Reflex}{42}{subsection.3.2.3}
-\contentsline {subsection}{\numberline {3.2.4}Knee Jerk}{42}{subsection.3.2.4}
-\contentsline {subsection}{\numberline {3.2.5}Taste Map}{43}{subsection.3.2.5}
-\contentsline {subsection}{\numberline {3.2.6}Tasteless Food}{43}{subsection.3.2.6}
-\contentsline {subsection}{\numberline {3.2.7}Sound and Direction}{43}{subsection.3.2.7}
-\contentsline {subsection}{\numberline {3.2.8}Sight and Balance}{43}{subsection.3.2.8}
-\contentsline {subsection}{\numberline {3.2.9}Phototropism}{44}{subsection.3.2.9}
-\contentsline {subsection}{\numberline {3.2.10}Geotropism - Roots}{44}{subsection.3.2.10}
-\contentsline {subsection}{\numberline {3.2.11}Geotropism - Shoots}{44}{subsection.3.2.11}
-\contentsline {subsection}{\numberline {3.2.12}Hydrotropism}{44}{subsection.3.2.12}
-\contentsline {subsection}{\numberline {3.2.13}Hothouses}{44}{subsection.3.2.13}
-\contentsline {section}{\numberline {3.3}Regulation}{45}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Cooling by Sweat}{45}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Evaporation and Cooling}{45}{subsection.3.3.2}
-\contentsline {section}{\numberline {3.4}Reproduction}{46}{section.3.4}
-\contentsline {subsection}{\numberline {3.4.1}Meiosis Models}{46}{subsection.3.4.1}
-\contentsline {subsection}{\numberline {3.4.2}Flower Structure}{46}{subsection.3.4.2}
-\contentsline {subsection}{\numberline {3.4.3}Anthers and Pollen}{46}{subsection.3.4.3}
-\contentsline {subsection}{\numberline {3.4.4}Sperm and Egg}{46}{subsection.3.4.4}
-\contentsline {subsection}{\numberline {3.4.5}Sperm Model}{47}{subsection.3.4.5}
-\contentsline {subsection}{\numberline {3.4.6}Amniotic Sac Protection}{47}{subsection.3.4.6}
-\contentsline {subsection}{\numberline {3.4.7}Fertilisation}{47}{subsection.3.4.7}
-\contentsline {chapter}{\numberline {4}Biology Activities for Form IV}{48}{chapter.4}
-\contentsline {section}{\numberline {4.1}Growth}{48}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}Mitosis Model}{48}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Seed Germination}{48}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Conditions for Germination}{48}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Hypogeal and Epigeal Germination}{48}{subsection.4.1.4}
-\contentsline {section}{\numberline {4.2}Genetics}{49}{section.4.2}
-\contentsline {subsection}{\numberline {4.2.1}Chromatid Models}{49}{subsection.4.2.1}
-\contentsline {subsection}{\numberline {4.2.2}DNA Zipper}{49}{subsection.4.2.2}
-\contentsline {subsection}{\numberline {4.2.3}DNA Helix Model}{49}{subsection.4.2.3}
-\contentsline {subsection}{\numberline {4.2.4}DNA Extraction}{49}{subsection.4.2.4}
-\contentsline {subsection}{\numberline {4.2.5}DNA Model Game}{50}{subsection.4.2.5}
-\contentsline {subsection}{\numberline {4.2.6}Mendelian Inheritance}{50}{subsection.4.2.6}
-\contentsline {subsection}{\numberline {4.2.7}Determining Sex of a Child}{50}{subsection.4.2.7}
-\contentsline {section}{\numberline {4.3}Evolution}{51}{section.4.3}
-\contentsline {subsection}{\numberline {4.3.1}Natural Selection Game}{51}{subsection.4.3.1}
-\contentsline {part}{Appendix}{51}{Item.4}
+\contentsline {subsection}{\numberline {1.1.11}Hand Washing}{10}{subsection.1.1.11}
+\contentsline {subsection}{\numberline {1.1.12}Lung Capacity}{11}{subsection.1.1.12}
+\contentsline {section}{\numberline {1.2}Safety in Our Environment}{12}{section.1.2}
+\contentsline {subsection}{\numberline {1.2.1}Biodegradable Waste}{12}{subsection.1.2.1}
+\contentsline {subsection}{\numberline {1.2.2}Trash Journal}{12}{subsection.1.2.2}
+\contentsline {section}{\numberline {1.3}Health and Immunity}{13}{section.1.3}
+\contentsline {subsection}{\numberline {1.3.1}Coughs and Sneezes \hfill \\ Spread Diseases}{13}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {1.3.2}Smoking and Health}{13}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {1.3.3}Water Baby}{13}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {1.3.4}Oral Rehydration Solution}{14}{subsection.1.3.4}
+\contentsline {subsection}{\numberline {1.3.5}HIV Acting}{14}{subsection.1.3.5}
+\contentsline {subsection}{\numberline {1.3.6}Passing On HIV}{14}{subsection.1.3.6}
+\contentsline {section}{\numberline {1.4}Cell Structure and Organization}{15}{section.1.4}
+\contentsline {subsection}{\numberline {1.4.1}Cells, Tissues, Organs}{15}{subsection.1.4.1}
+\contentsline {subsection}{\numberline {1.4.2}Cell Models}{15}{subsection.1.4.2}
+\contentsline {subsection}{\numberline {1.4.3}Looking at Cells}{15}{subsection.1.4.3}
+\contentsline {subsection}{\numberline {1.4.4}How Many Cells?}{15}{subsection.1.4.4}
+\contentsline {subsection}{\numberline {1.4.5}Simple Microscope}{16}{subsection.1.4.5}
+\contentsline {subsection}{\numberline {1.4.6}Cell Size}{16}{subsection.1.4.6}
+\contentsline {section}{\numberline {1.5}Classification of Living Things}{17}{section.1.5}
+\contentsline {subsection}{\numberline {1.5.1}Arranging Shapes}{17}{subsection.1.5.1}
+\contentsline {subsection}{\numberline {1.5.2}Classification at the Duka}{17}{subsection.1.5.2}
+\contentsline {subsection}{\numberline {1.5.3}Find a Missing Person}{17}{subsection.1.5.3}
+\contentsline {subsection}{\numberline {1.5.4}Classifying Leaves}{18}{subsection.1.5.4}
+\contentsline {subsection}{\numberline {1.5.5}Scavenger Hunt}{18}{subsection.1.5.5}
+\contentsline {subsection}{\numberline {1.5.6}Display Boards}{18}{subsection.1.5.6}
+\contentsline {chapter}{\numberline {2}Biology Activities for Form II}{19}{chapter.2}
+\contentsline {section}{\numberline {2.1}Nutrition}{19}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Lipids - Fats and Oils}{19}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Solubility of Fats and Oils}{19}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Carbohydrates}{19}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Simple Sugar Model}{19}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Protein Molecules}{20}{subsection.2.1.5}
+\contentsline {subsection}{\numberline {2.1.6}Test for Lipids}{20}{subsection.2.1.6}
+\contentsline {subsection}{\numberline {2.1.7}Test for Protein}{20}{subsection.2.1.7}
+\contentsline {subsection}{\numberline {2.1.8}Test for Starch}{20}{subsection.2.1.8}
+\contentsline {subsection}{\numberline {2.1.9}Test for Reducing Sugars}{21}{subsection.2.1.9}
+\contentsline {subsection}{\numberline {2.1.10}Test for Non-Reducing \hfill \\ Sugars}{21}{subsection.2.1.10}
+\contentsline {subsection}{\numberline {2.1.11}Models for Digestion}{21}{subsection.2.1.11}
+\contentsline {subsection}{\numberline {2.1.12}Digestive System Model}{22}{subsection.2.1.12}
+\contentsline {subsection}{\numberline {2.1.13}Invisible Saliva Ink}{22}{subsection.2.1.13}
+\contentsline {subsection}{\numberline {2.1.14}Salts in Saliva}{22}{subsection.2.1.14}
+\contentsline {subsection}{\numberline {2.1.15}Swallowing Upside Down}{22}{subsection.2.1.15}
+\contentsline {subsection}{\numberline {2.1.16}Peristalsis Model}{23}{subsection.2.1.16}
+\contentsline {subsection}{\numberline {2.1.17}Intestine Length}{23}{subsection.2.1.17}
+\contentsline {subsection}{\numberline {2.1.18}Absorption Model}{23}{subsection.2.1.18}
+\contentsline {subsection}{\numberline {2.1.19}Tooth Decay from Soda}{23}{subsection.2.1.19}
+\contentsline {subsection}{\numberline {2.1.20}Nutrients from Soil}{24}{subsection.2.1.20}
+\contentsline {subsection}{\numberline {2.1.21}Photosynthesis Model}{24}{subsection.2.1.21}
+\contentsline {subsection}{\numberline {2.1.22}Photosynthesis Equation Game}{24}{subsection.2.1.22}
+\contentsline {subsection}{\numberline {2.1.23}Leaf Structure}{24}{subsection.2.1.23}
+\contentsline {subsection}{\numberline {2.1.24}Plants Need Light}{25}{subsection.2.1.24}
+\contentsline {subsection}{\numberline {2.1.25}Extracting Chlorophyll}{25}{subsection.2.1.25}
+\contentsline {subsection}{\numberline {2.1.26}Chlorophyll and \hfill \\ Photosynthesis}{25}{subsection.2.1.26}
+\contentsline {subsection}{\numberline {2.1.27}$\mathrm {\textbf {C}\textbf {O}_\textbf {2}}$ and Photosynthesis}{25}{subsection.2.1.27}
+\contentsline {subsection}{\numberline {2.1.28}Starch as a Product of \hfill \\ Photosynthesis}{26}{subsection.2.1.28}
+\contentsline {subsection}{\numberline {2.1.29}Oxygen as a Product of \hfill \\ Photosynthesis}{26}{subsection.2.1.29}
+\contentsline {subsection}{\numberline {2.1.30}Food Preservatives}{26}{subsection.2.1.30}
+\contentsline {section}{\numberline {2.2}Balance of Nature}{27}{section.2.2}
+\contentsline {subsection}{\numberline {2.2.1}Camouflage and Protection}{27}{subsection.2.2.1}
+\contentsline {subsection}{\numberline {2.2.2}Reactions to Light}{27}{subsection.2.2.2}
+\contentsline {subsection}{\numberline {2.2.3}Reactions to Humidity}{27}{subsection.2.2.3}
+\contentsline {subsection}{\numberline {2.2.4}Aquarium}{27}{subsection.2.2.4}
+\contentsline {subsection}{\numberline {2.2.5}Terrarium}{28}{subsection.2.2.5}
+\contentsline {subsection}{\numberline {2.2.6}Carbon Cycle Cards}{28}{subsection.2.2.6}
+\contentsline {subsection}{\numberline {2.2.7}Water Cycle}{28}{subsection.2.2.7}
+\contentsline {subsection}{\numberline {2.2.8}Nitrogen Cycle}{28}{subsection.2.2.8}
+\contentsline {subsection}{\numberline {2.2.9}Food Chain Links}{29}{subsection.2.2.9}
+\contentsline {subsection}{\numberline {2.2.10}Food Webs}{29}{subsection.2.2.10}
+\contentsline {subsection}{\numberline {2.2.11}Food Web Connections}{29}{subsection.2.2.11}
+\contentsline {section}{\numberline {2.3}Transport of Materials in Living Things}{30}{section.2.3}
+\contentsline {subsection}{\numberline {2.3.1}Diffusion in Liquids}{30}{subsection.2.3.1}
+\contentsline {subsection}{\numberline {2.3.2}Smelling Particles}{30}{subsection.2.3.2}
+\contentsline {subsection}{\numberline {2.3.3}Semi-Permeable Membranes}{30}{subsection.2.3.3}
+\contentsline {subsection}{\numberline {2.3.4}Osmosis in Dead and Living Tissues}{30}{subsection.2.3.4}
+\contentsline {subsection}{\numberline {2.3.5}Vanilla Balloon}{31}{subsection.2.3.5}
+\contentsline {subsection}{\numberline {2.3.6}Osmosis/Active Transport \hfill \\ Model}{31}{subsection.2.3.6}
+\contentsline {subsection}{\numberline {2.3.7}Potato Osmosis}{31}{subsection.2.3.7}
+\contentsline {subsection}{\numberline {2.3.8}Guard Cells in Osmosis}{31}{subsection.2.3.8}
+\contentsline {subsection}{\numberline {2.3.9}Heart Pump Action}{32}{subsection.2.3.9}
+\contentsline {subsection}{\numberline {2.3.10}Heart Model}{32}{subsection.2.3.10}
+\contentsline {subsection}{\numberline {2.3.11}Measuring Pulse}{32}{subsection.2.3.11}
+\contentsline {subsection}{\numberline {2.3.12}Simple Stethoscope}{32}{subsection.2.3.12}
+\contentsline {subsection}{\numberline {2.3.13}Blood Vessel Model}{33}{subsection.2.3.13}
+\contentsline {subsection}{\numberline {2.3.14}Blood as a Transporter}{33}{subsection.2.3.14}
+\contentsline {subsection}{\numberline {2.3.15}Red and White Blood Cell Models}{33}{subsection.2.3.15}
+\contentsline {subsection}{\numberline {2.3.16}Engulfing Model}{33}{subsection.2.3.16}
+\contentsline {subsection}{\numberline {2.3.17}Germs and Antibodies}{34}{subsection.2.3.17}
+\contentsline {subsection}{\numberline {2.3.18}Blood Clotting}{34}{subsection.2.3.18}
+\contentsline {subsection}{\numberline {2.3.19}Transfusion Checkers}{34}{subsection.2.3.19}
+\contentsline {subsection}{\numberline {2.3.20}Transfusion Card Game}{34}{subsection.2.3.20}
+\contentsline {subsection}{\numberline {2.3.21}Circulation Game}{35}{subsection.2.3.21}
+\contentsline {subsection}{\numberline {2.3.22}Xylem and Phloem Game}{35}{subsection.2.3.22}
+\contentsline {subsection}{\numberline {2.3.23}Root Hairs}{35}{subsection.2.3.23}
+\contentsline {subsection}{\numberline {2.3.24}Capillary Rise}{36}{subsection.2.3.24}
+\contentsline {subsection}{\numberline {2.3.25}Automatic Irrigation}{36}{subsection.2.3.25}
+\contentsline {subsection}{\numberline {2.3.26}Water Movement in Plants}{36}{subsection.2.3.26}
+\contentsline {subsection}{\numberline {2.3.27}Transpiration}{36}{subsection.2.3.27}
+\contentsline {section}{\numberline {2.4}Gaseous Exchange and Respiration}{37}{section.2.4}
+\contentsline {subsection}{\numberline {2.4.1}Breathing Model}{37}{subsection.2.4.1}
+\contentsline {subsection}{\numberline {2.4.2}Lung Capacity}{37}{subsection.2.4.2}
+\contentsline {subsection}{\numberline {2.4.3}Gas Exchange Game}{37}{subsection.2.4.3}
+\contentsline {subsection}{\numberline {2.4.4}Gas Exchange Board Game}{38}{subsection.2.4.4}
+\contentsline {subsection}{\numberline {2.4.5}Germinating Seeds}{38}{subsection.2.4.5}
+\contentsline {subsection}{\numberline {2.4.6}Respiration Cards}{38}{subsection.2.4.6}
+\contentsline {subsection}{\numberline {2.4.7}Respiration Plates}{38}{subsection.2.4.7}
+\contentsline {subsection}{\numberline {2.4.8}Exhaling \textbf {CO}$_\textbf {2}$}{39}{subsection.2.4.8}
+\contentsline {subsection}{\numberline {2.4.9}Yeast Balloons}{39}{subsection.2.4.9}
+\contentsline {subsection}{\numberline {2.4.10}Fermenting Fruits}{39}{subsection.2.4.10}
+\contentsline {subsection}{\numberline {2.4.11}Fermenting Sugar}{39}{subsection.2.4.11}
+\contentsline {chapter}{\numberline {3}Biology Activities for Form III}{40}{chapter.3}
+\contentsline {section}{\numberline {3.1}Movement}{40}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Paper Skeleton}{40}{subsection.3.1.1}
+\contentsline {subsubsection}{Skull and Pelvis}{40}{subsubsection*.2}
+\contentsline {subsubsection}{Limbs}{40}{subsubsection*.3}
+\contentsline {subsubsection}{Rib Cage}{40}{subsubsection*.4}
+\contentsline {subsubsection}{Backbone}{40}{subsubsection*.5}
+\contentsline {subsubsection}{Hands and Feet}{40}{subsubsection*.6}
+\contentsline {subsection}{\numberline {3.1.2}Robotic Hand}{41}{subsection.3.1.2}
+\contentsline {subsubsection}{Hand Structure}{41}{subsubsection*.7}
+\contentsline {subsubsection}{Fingers}{41}{subsubsection*.8}
+\contentsline {subsubsection}{Attach Fingers}{41}{subsubsection*.9}
+\contentsline {subsubsection}{Moving Joints}{42}{subsubsection*.10}
+\contentsline {subsubsection}{Completing the Hand}{42}{subsubsection*.11}
+\contentsline {subsection}{\numberline {3.1.3}Ball and Socket}{42}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Hinge Joint}{42}{subsection.3.1.4}
+\contentsline {subsection}{\numberline {3.1.5}Sliding Joint}{42}{subsection.3.1.5}
+\contentsline {subsection}{\numberline {3.1.6}Forearm Lever}{43}{subsection.3.1.6}
+\contentsline {subsection}{\numberline {3.1.7}Muscles Work in Pairs}{43}{subsection.3.1.7}
+\contentsline {subsection}{\numberline {3.1.8}Effect of Load on Muscle}{43}{subsection.3.1.8}
+\contentsline {subsection}{\numberline {3.1.9}Support of the Spinal Column}{43}{subsection.3.1.9}
+\contentsline {section}{\numberline {3.2}Coordination}{44}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Nerve Model}{44}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Neuron Models}{44}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Blinking Reflex}{44}{subsection.3.2.3}
+\contentsline {subsection}{\numberline {3.2.4}Knee Jerk}{44}{subsection.3.2.4}
+\contentsline {subsection}{\numberline {3.2.5}Taste Map}{45}{subsection.3.2.5}
+\contentsline {subsection}{\numberline {3.2.6}Coordination Fluid}{45}{subsection.3.2.6}
+\contentsline {subsection}{\numberline {3.2.7}Sound and Direction}{45}{subsection.3.2.7}
+\contentsline {subsection}{\numberline {3.2.8}Sight and Balance}{45}{subsection.3.2.8}
+\contentsline {subsection}{\numberline {3.2.9}Phototropism}{46}{subsection.3.2.9}
+\contentsline {subsection}{\numberline {3.2.10}Geotropism - Roots}{46}{subsection.3.2.10}
+\contentsline {subsection}{\numberline {3.2.11}Geotropism - Shoots}{46}{subsection.3.2.11}
+\contentsline {subsection}{\numberline {3.2.12}Hydrotropism}{46}{subsection.3.2.12}
+\contentsline {subsection}{\numberline {3.2.13}Hothouses}{46}{subsection.3.2.13}
+\contentsline {section}{\numberline {3.3}Regulation}{47}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Cooling by Sweat}{47}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Evaporation and Cooling}{47}{subsection.3.3.2}
+\contentsline {section}{\numberline {3.4}Reproduction}{48}{section.3.4}
+\contentsline {subsection}{\numberline {3.4.1}Meiosis Models}{48}{subsection.3.4.1}
+\contentsline {subsection}{\numberline {3.4.2}Flower Structure}{48}{subsection.3.4.2}
+\contentsline {subsection}{\numberline {3.4.3}Anthers and Pollen}{48}{subsection.3.4.3}
+\contentsline {subsection}{\numberline {3.4.4}Sperm and Egg}{48}{subsection.3.4.4}
+\contentsline {subsection}{\numberline {3.4.5}Sperm Model}{49}{subsection.3.4.5}
+\contentsline {subsection}{\numberline {3.4.6}Amniotic Sac Protection}{49}{subsection.3.4.6}
+\contentsline {subsection}{\numberline {3.4.7}Fertilisation}{49}{subsection.3.4.7}
+\contentsline {chapter}{\numberline {4}Biology Activities for Form IV}{50}{chapter.4}
+\contentsline {section}{\numberline {4.1}Growth}{50}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Mitosis Model}{50}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Seed Germination}{50}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Conditions for Germination}{50}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Hypogeal and Epigeal Germination}{50}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Genetics}{51}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Chromatid Models}{51}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}DNA Zipper}{51}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}DNA Helix Model}{51}{subsection.4.2.3}
+\contentsline {subsection}{\numberline {4.2.4}DNA Extraction}{51}{subsection.4.2.4}
+\contentsline {subsection}{\numberline {4.2.5}DNA Model Game}{52}{subsection.4.2.5}
+\contentsline {subsection}{\numberline {4.2.6}Mendelian Inheritance}{52}{subsection.4.2.6}
+\contentsline {subsection}{\numberline {4.2.7}Determining Sex of a Child}{52}{subsection.4.2.7}
+\contentsline {section}{\numberline {4.3}Evolution}{53}{section.4.3}
+\contentsline {subsection}{\numberline {4.3.1}Natural Selection Game}{53}{subsection.4.3.1}
+\contentsline {part}{Appendix}{53}{Item.8}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {part}{Materials and Equipment}{51}{section*.12}
-\contentsline {chapter}{\numberline {A}Local Materials List}{53}{appendix.A}
-\contentsline {section}{\numberline {A.1}Balance}{54}{section.A.1}
-\contentsline {section}{\numberline {A.2}Beakers}{54}{section.A.2}
-\contentsline {section}{\numberline {A.3}Blowpipe}{54}{section.A.3}
-\contentsline {section}{\numberline {A.4}Bunsen Burner}{54}{section.A.4}
-\contentsline {section}{\numberline {A.5}Burettes}{54}{section.A.5}
-\contentsline {section}{\numberline {A.6}Containers}{54}{section.A.6}
-\contentsline {section}{\numberline {A.7}Crucible}{55}{section.A.7}
-\contentsline {section}{\numberline {A.8}Deflagrating Spoon}{55}{section.A.8}
-\contentsline {section}{\numberline {A.9}Delivery Tube}{55}{section.A.9}
-\contentsline {section}{\numberline {A.10}Drawing Board}{55}{section.A.10}
-\contentsline {section}{\numberline {A.11}Droppers}{55}{section.A.11}
-\contentsline {section}{\numberline {A.12}Electrodes}{55}{section.A.12}
-\contentsline {subsection}{\numberline {A.12.1}Graphite}{55}{subsection.A.12.1}
-\contentsline {subsection}{\numberline {A.12.2}Zinc}{55}{subsection.A.12.2}
-\contentsline {subsection}{\numberline {A.12.3}Iron}{56}{subsection.A.12.3}
-\contentsline {subsection}{\numberline {A.12.4}Copper}{56}{subsection.A.12.4}
-\contentsline {section}{\numberline {A.13}Filter Paper}{56}{section.A.13}
-\contentsline {section}{\numberline {A.14}Flasks}{56}{section.A.14}
-\contentsline {section}{\numberline {A.15}Funnel}{56}{section.A.15}
-\contentsline {section}{\numberline {A.16}Gloves}{57}{section.A.16}
-\contentsline {subsection}{\numberline {A.16.1}Latex gloves}{57}{subsection.A.16.1}
-\contentsline {subsection}{\numberline {A.16.2}Thick gloves}{57}{subsection.A.16.2}
-\contentsline {section}{\numberline {A.17}Goggles}{57}{section.A.17}
-\contentsline {section}{\numberline {A.18}Heat Sources}{57}{section.A.18}
-\contentsline {subsection}{\numberline {A.18.1}Heating Solutions}{57}{subsection.A.18.1}
-\contentsline {subsection}{\numberline {A.18.2}Heating Solids}{58}{subsection.A.18.2}
-\contentsline {subsection}{\numberline {A.18.3}Flame Tests}{58}{subsection.A.18.3}
-\contentsline {section}{\numberline {A.19}Indicator}{58}{section.A.19}
-\contentsline {section}{\numberline {A.20}Iron Filings}{58}{section.A.20}
-\contentsline {section}{\numberline {A.21}Masses}{58}{section.A.21}
-\contentsline {section}{\numberline {A.22}Measuring Cylinder}{58}{section.A.22}
-\contentsline {section}{\numberline {A.23}Metre Rule}{58}{section.A.23}
-\contentsline {section}{\numberline {A.24}Microscope}{58}{section.A.24}
-\contentsline {section}{\numberline {A.25}Mortar and Pestle}{58}{section.A.25}
-\contentsline {section}{\numberline {A.26}Optical Pins}{58}{section.A.26}
-\contentsline {section}{\numberline {A.27}Pipettes}{59}{section.A.27}
-\contentsline {section}{\numberline {A.28}Retort Stand}{59}{section.A.28}
-\contentsline {section}{\numberline {A.29}Scale Pans}{59}{section.A.29}
-\contentsline {section}{\numberline {A.30}Scalpels}{59}{section.A.30}
-\contentsline {section}{\numberline {A.31}Slides and Cover Slips}{59}{section.A.31}
-\contentsline {section}{\numberline {A.32}Spatula}{59}{section.A.32}
-\contentsline {section}{\numberline {A.33}Stoppers}{60}{section.A.33}
-\contentsline {section}{\numberline {A.34}Stopwatches}{60}{section.A.34}
-\contentsline {section}{\numberline {A.35}Test Tubes}{60}{section.A.35}
-\contentsline {subsection}{\numberline {A.35.1}Plastic Test Tubes}{60}{subsection.A.35.1}
-\contentsline {subsection}{\numberline {A.35.2}For Thermal Decomposition}{60}{subsection.A.35.2}
-\contentsline {section}{\numberline {A.36}Test Tube Brush}{60}{section.A.36}
-\contentsline {section}{\numberline {A.37}Test Tube Holder / Tongs}{60}{section.A.37}
-\contentsline {section}{\numberline {A.38}Test Tube Racks}{61}{section.A.38}
-\contentsline {section}{\numberline {A.39}Tripod Stands}{61}{section.A.39}
-\contentsline {section}{\numberline {A.40}Volumetric ``Glass''ware}{61}{section.A.40}
-\contentsline {section}{\numberline {A.41}Wash Bottle}{61}{section.A.41}
-\contentsline {section}{\numberline {A.42}Water Bath}{61}{section.A.42}
-\contentsline {section}{\numberline {A.43}Weights}{61}{section.A.43}
-\contentsline {subsection}{\numberline {A.43.1}Crude Weights}{61}{subsection.A.43.1}
-\contentsline {subsection}{\numberline {A.43.2}Adding Weight in Known Intervals}{61}{subsection.A.43.2}
-\contentsline {subsection}{\numberline {A.43.3}Precise Weights}{61}{subsection.A.43.3}
-\contentsline {section}{\numberline {A.44}White Tiles}{62}{section.A.44}
-\contentsline {section}{\numberline {A.45}Wire Gauze}{62}{section.A.45}
-\contentsline {chapter}{\numberline {B}Low Tech Microscopy}{63}{appendix.B}
-\contentsline {section}{\numberline {B.1}Water as a lens}{63}{section.B.1}
-\contentsline {section}{\numberline {B.2}Perfect circles}{63}{section.B.2}
-\contentsline {section}{\numberline {B.3}Slides}{63}{section.B.3}
-\contentsline {section}{\numberline {B.4}Backlighting}{63}{section.B.4}
-\contentsline {section}{\numberline {B.5}Simple Microscopes and Magnifiers}{64}{section.B.5}
-\contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{64}{subsection.B.5.1}
-\contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{64}{subsection.B.5.2}
-\contentsline {subsection}{\numberline {B.5.3}Simple Compound Microscope}{64}{subsection.B.5.3}
-\contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{64}{subsection.B.5.4}
-\contentsline {chapter}{\numberline {C}Storage of Materials}{65}{appendix.C}
-\contentsline {section}{\numberline {C.1}The Science Box}{65}{section.C.1}
-\contentsline {section}{\numberline {C.2}Card and Picture Boxes}{65}{section.C.2}
-\contentsline {section}{\numberline {C.3}Matchbox Drawers}{65}{section.C.3}
-\contentsline {section}{\numberline {C.4}Dividing Boxes}{65}{section.C.4}
-\contentsline {section}{\numberline {C.5}Envelopes and Bags}{65}{section.C.5}
-\contentsline {chapter}{\numberline {D}Pastes and Modeling Materials}{66}{appendix.D}
-\contentsline {section}{\numberline {D.1}Papier M\^{a}ch\'{e}}{66}{section.D.1}
-\contentsline {section}{\numberline {D.2}Papier M\^{a}ch\'{e} Layering}{66}{section.D.2}
-\contentsline {section}{\numberline {D.3}Modeling Clay}{66}{section.D.3}
-\contentsline {section}{\numberline {D.4}Paste and Sand Cement}{66}{section.D.4}
-\contentsline {section}{\numberline {D.5}Flour Paste}{67}{section.D.5}
-\contentsline {section}{\numberline {D.6}Casein Glue}{67}{section.D.6}
-\contentsline {chapter}{\numberline {E}Making Biology Solutions}{68}{appendix.E}
-\contentsline {chapter}{\numberline {F}Collecting Specimens}{69}{appendix.F}
-\contentsline {section}{\numberline {F.1}Methods of Collecting and Displaying}{69}{section.F.1}
-\contentsline {subsection}{\numberline {F.1.1}Pitfall Traps}{69}{subsection.F.1.1}
-\contentsline {subsection}{\numberline {F.1.2}Worm Jar}{69}{subsection.F.1.2}
-\contentsline {subsection}{\numberline {F.1.3}Collecting Nets}{69}{subsection.F.1.3}
-\contentsline {subsection}{\numberline {F.1.4}Soil Life}{69}{subsection.F.1.4}
-\contentsline {subsection}{\numberline {F.1.5}Flying Insect Cage}{70}{subsection.F.1.5}
-\contentsline {subsection}{\numberline {F.1.6}Reptile Cage}{70}{subsection.F.1.6}
-\contentsline {subsection}{\numberline {F.1.7}Aquarium Box}{70}{subsection.F.1.7}
-\contentsline {subsection}{\numberline {F.1.8}Caring for Animals}{70}{subsection.F.1.8}
-\contentsline {section}{\numberline {F.2}O-Level Biology Specimens}{71}{section.F.2}
-\contentsline {subsection}{\numberline {F.2.1}Kingdom Fungi}{71}{subsection.F.2.1}
-\contentsline {subsubsection}{\numberline {F.2.1.1}Phlyum Basidiomycota}{71}{subsubsection.F.2.1.1}
-\contentsline {paragraph}{Collection}{71}{paragraph*.14}
-\contentsline {paragraph}{Preservation}{71}{paragraph*.15}
-\contentsline {paragraph}{Dissection}{71}{paragraph*.16}
-\contentsline {subsubsection}{\numberline {F.2.1.2}Phylum Zygomycota}{71}{subsubsection.F.2.1.2}
-\contentsline {paragraph}{Collection}{71}{paragraph*.17}
-\contentsline {subsubsection}{\numberline {F.2.1.3}Phylum Ascomycota}{71}{subsubsection.F.2.1.3}
-\contentsline {paragraph}{Collection}{71}{paragraph*.18}
-\contentsline {paragraph}{Preservation}{71}{paragraph*.19}
-\contentsline {subsection}{\numberline {F.2.2}Kingdom Plantae}{72}{subsection.F.2.2}
-\contentsline {subsubsection}{\numberline {F.2.2.1}Division Bryophyta}{72}{subsubsection.F.2.2.1}
-\contentsline {paragraph}{Collection}{72}{paragraph*.20}
-\contentsline {paragraph}{Preservation}{72}{paragraph*.21}
-\contentsline {subsubsection}{\numberline {F.2.2.2}Division Filicinophyta}{72}{subsubsection.F.2.2.2}
-\contentsline {paragraph}{Collection}{72}{paragraph*.22}
-\contentsline {paragraph}{Preservation}{72}{paragraph*.23}
-\contentsline {subsubsection}{\numberline {F.2.2.3}Division Coniferophyta}{72}{subsubsection.F.2.2.3}
-\contentsline {paragraph}{Collection}{72}{paragraph*.24}
-\contentsline {paragraph}{Preservation}{72}{paragraph*.25}
-\contentsline {subsubsection}{\numberline {F.2.2.4}Division Angiospermophyta}{73}{subsubsection.F.2.2.4}
-\contentsline {paragraph}{\numberline {F.2.2.4.1}\textbf {Monocotyledons}}{73}{paragraph.F.2.2.4.1}
-\contentsline {paragraph}{\numberline {F.2.2.4.2}\textbf {Dicotyledons}}{73}{paragraph.F.2.2.4.2}
-\contentsline {subparagraph}{Collection}{73}{subparagraph*.26}
-\contentsline {subparagraph}{Preservation}{73}{subparagraph*.27}
-\contentsline {subparagraph}{Dissection}{73}{subparagraph*.28}
-\contentsline {subsection}{\numberline {F.2.3}Kingdom Animalia}{74}{subsection.F.2.3}
-\contentsline {subsubsection}{\numberline {F.2.3.1}Phylum Platyhelminthes}{74}{subsubsection.F.2.3.1}
-\contentsline {paragraph}{Collection}{74}{paragraph*.29}
-\contentsline {paragraph}{Preservation}{74}{paragraph*.30}
-\contentsline {paragraph}{Killing}{74}{paragraph*.31}
-\contentsline {paragraph}{Dissection}{74}{paragraph*.32}
-\contentsline {subsubsection}{\numberline {F.2.3.2}Phylum Nematoda or \hfill \\ Ascehelminthyes}{74}{subsubsection.F.2.3.2}
-\contentsline {paragraph}{Collection}{74}{paragraph*.33}
-\contentsline {paragraph}{Preservation}{74}{paragraph*.34}
-\contentsline {paragraph}{Killing}{74}{paragraph*.35}
-\contentsline {paragraph}{Dissection}{74}{paragraph*.36}
-\contentsline {subsubsection}{\numberline {F.2.3.3}Phylum Annelida}{74}{subsubsection.F.2.3.3}
-\contentsline {paragraph}{Collection}{75}{paragraph*.37}
-\contentsline {paragraph}{Preservation}{75}{paragraph*.38}
-\contentsline {paragraph}{Killing}{75}{paragraph*.39}
-\contentsline {paragraph}{Dissection}{75}{paragraph*.40}
-\contentsline {subsubsection}{\numberline {F.2.3.4}Phylum Arthropoda}{75}{subsubsection.F.2.3.4}
-\contentsline {paragraph}{\numberline {F.2.3.4.1}Class Insecta}{75}{paragraph.F.2.3.4.1}
-\contentsline {subparagraph}{Collection}{75}{subparagraph*.41}
-\contentsline {subparagraph}{Preservation}{75}{subparagraph*.42}
-\contentsline {subparagraph}{Killing}{75}{subparagraph*.43}
-\contentsline {subparagraph}{Dissection}{75}{subparagraph*.44}
-\contentsline {paragraph}{\numberline {F.2.3.4.2}Class Crustacea}{75}{paragraph.F.2.3.4.2}
-\contentsline {subparagraph}{Collection}{76}{subparagraph*.45}
-\contentsline {subparagraph}{Preservation}{76}{subparagraph*.46}
-\contentsline {subparagraph}{Killing}{76}{subparagraph*.47}
-\contentsline {subparagraph}{Dissection}{76}{subparagraph*.48}
-\contentsline {paragraph}{\numberline {F.2.3.4.3}Class Arachnida}{76}{paragraph.F.2.3.4.3}
-\contentsline {subparagraph}{Collection}{76}{subparagraph*.49}
-\contentsline {subparagraph}{Preservation}{76}{subparagraph*.50}
-\contentsline {subparagraph}{Killing}{76}{subparagraph*.51}
-\contentsline {paragraph}{\numberline {F.2.3.4.4}Class Chilopoda}{76}{paragraph.F.2.3.4.4}
-\contentsline {subparagraph}{Collection}{76}{subparagraph*.52}
-\contentsline {subparagraph}{Preservation}{76}{subparagraph*.53}
-\contentsline {subparagraph}{Killing}{76}{subparagraph*.54}
-\contentsline {paragraph}{\numberline {F.2.3.4.5}Class Diplopoda}{76}{paragraph.F.2.3.4.5}
-\contentsline {subparagraph}{Collection}{76}{subparagraph*.55}
-\contentsline {subparagraph}{Preservation}{76}{subparagraph*.56}
-\contentsline {subparagraph}{Killing}{76}{subparagraph*.57}
-\contentsline {subsubsection}{\numberline {F.2.3.5}Phylum Chordata}{77}{subsubsection.F.2.3.5}
-\contentsline {paragraph}{\numberline {F.2.3.5.1}Class Chondrichthyes}{77}{paragraph.F.2.3.5.1}
-\contentsline {subparagraph}{Collection}{77}{subparagraph*.58}
-\contentsline {subparagraph}{Preservation}{77}{subparagraph*.59}
-\contentsline {subparagraph}{Killing}{77}{subparagraph*.60}
-\contentsline {subparagraph}{Dissection}{77}{subparagraph*.61}
-\contentsline {paragraph}{\numberline {F.2.3.5.2}Class Osteichthyes}{77}{paragraph.F.2.3.5.2}
-\contentsline {subparagraph}{Collection}{77}{subparagraph*.62}
-\contentsline {subparagraph}{Preservation}{77}{subparagraph*.63}
-\contentsline {subparagraph}{Killing}{77}{subparagraph*.64}
-\contentsline {subparagraph}{Dissection}{78}{subparagraph*.65}
-\contentsline {paragraph}{\numberline {F.2.3.5.3}Class Amphibia}{78}{paragraph.F.2.3.5.3}
-\contentsline {subparagraph}{Collection}{78}{subparagraph*.66}
-\contentsline {subparagraph}{Preservation}{78}{subparagraph*.67}
-\contentsline {subparagraph}{Killing}{78}{subparagraph*.68}
-\contentsline {subparagraph}{Dissection}{78}{subparagraph*.69}
-\contentsline {paragraph}{\numberline {F.2.3.5.4}Class Reptilia}{78}{paragraph.F.2.3.5.4}
-\contentsline {subparagraph}{Collection}{78}{subparagraph*.70}
-\contentsline {subparagraph}{Preservation}{78}{subparagraph*.71}
-\contentsline {subparagraph}{Killing}{78}{subparagraph*.72}
-\contentsline {subparagraph}{Dissection}{78}{subparagraph*.73}
-\contentsline {paragraph}{\numberline {F.2.3.5.5}Class Aves}{78}{paragraph.F.2.3.5.5}
-\contentsline {subparagraph}{Collection}{79}{subparagraph*.74}
-\contentsline {subparagraph}{Preservation}{79}{subparagraph*.75}
-\contentsline {subparagraph}{Killing}{79}{subparagraph*.76}
-\contentsline {subparagraph}{Dissection}{79}{subparagraph*.77}
-\contentsline {paragraph}{\numberline {F.2.3.5.6}Class Mammalia}{79}{paragraph.F.2.3.5.6}
-\contentsline {subparagraph}{Collection}{79}{subparagraph*.78}
-\contentsline {subparagraph}{Preservation}{79}{subparagraph*.79}
-\contentsline {subparagraph}{Killing}{79}{subparagraph*.80}
-\contentsline {subparagraph}{Dissection}{79}{subparagraph*.81}
-\contentsline {part}{Interactive Learning}{79}{section*.82}
-\contentsline {chapter}{\numberline {G}Visual Aids and Displays}{81}{appendix.G}
-\contentsline {section}{\numberline {G.1}Science Corner}{81}{section.G.1}
-\contentsline {section}{\numberline {G.2}Cardboard Box Displays}{82}{section.G.2}
-\contentsline {subsection}{\numberline {G.2.1}Zigzag Multiboards}{82}{subsection.G.2.1}
-\contentsline {subsection}{\numberline {G.2.2}Portability}{82}{subsection.G.2.2}
-\contentsline {section}{\numberline {G.3}Hanging Displays}{82}{section.G.3}
-\contentsline {subsection}{\numberline {G.3.1}Display Beams and Hooks}{82}{subsection.G.3.1}
-\contentsline {subsection}{\numberline {G.3.2}Display Charts}{83}{subsection.G.3.2}
-\contentsline {subsection}{\numberline {G.3.3}String Display Lines}{83}{subsection.G.3.3}
-\contentsline {subsection}{\numberline {G.3.4}Carrier Bag Display}{84}{subsection.G.3.4}
-\contentsline {section}{\numberline {G.4}Transparent Flip-Sheets}{84}{section.G.4}
-\contentsline {section}{\numberline {G.5}Clothing Posters}{84}{section.G.5}
-\contentsline {section}{\numberline {G.6}Magnet Boards}{84}{section.G.6}
-\contentsline {chapter}{\numberline {H}Science Outside the Classroom}{85}{appendix.H}
-\contentsline {section}{\numberline {H.1}Science Clubs}{85}{section.H.1}
-\contentsline {subsection}{\numberline {H.1.1}Organizing a Club}{85}{subsection.H.1.1}
-\contentsline {subsection}{\numberline {H.1.2}Activities Record Book}{86}{subsection.H.1.2}
-\contentsline {subsection}{\numberline {H.1.3}Science Notice Board}{86}{subsection.H.1.3}
-\contentsline {subsection}{\numberline {H.1.4}Science in the News Book}{86}{subsection.H.1.4}
-\contentsline {subsection}{\numberline {H.1.5}Personal Science Kits}{86}{subsection.H.1.5}
-\contentsline {subsection}{\numberline {H.1.6}Collections and Research}{87}{subsection.H.1.6}
-\contentsline {subsection}{\numberline {H.1.7}Additional Practicals}{87}{subsection.H.1.7}
-\contentsline {section}{\numberline {H.2}Science Fairs}{87}{section.H.2}
-\contentsline {section}{\numberline {H.3}Science Competitions}{87}{section.H.3}
-\contentsline {section}{\numberline {H.4}Science Conferences \hfill \\ and Camps}{88}{section.H.4}
-\contentsline {section}{\numberline {H.5}Field Trips}{88}{section.H.5}
-\contentsline {chapter}{\numberline {I}Science in the Community}{89}{appendix.I}
-\contentsline {section}{\numberline {I.1}Science for All}{89}{section.I.1}
-\contentsline {section}{\numberline {I.2}Science Target Groups}{89}{section.I.2}
-\contentsline {section}{\numberline {I.3}Environmental \hfill \\ Awareness}{90}{section.I.3}
-\contentsline {section}{\numberline {I.4}Wildlife Conservation}{90}{section.I.4}
-\contentsline {section}{\numberline {I.5}Science and Health}{91}{section.I.5}
-\contentsline {chapter}{\numberline {J}HIV/AIDS Awareness}{92}{appendix.J}
-\contentsline {section}{\numberline {J.1}Introduction}{92}{section.J.1}
-\contentsline {section}{\numberline {J.2}AIDS - Current Information}{92}{section.J.2}
-\contentsline {section}{\numberline {J.3}Description and Cause of AIDS}{93}{section.J.3}
-\contentsline {section}{\numberline {J.4}Clinical Manifestations}{93}{section.J.4}
-\contentsline {section}{\numberline {J.5}Transmission}{94}{section.J.5}
-\contentsline {subsection}{\numberline {J.5.1}How the virus is NOT known to be spread}{95}{subsection.J.5.1}
-\contentsline {subsection}{\numberline {J.5.2}Major Risk Factors}{95}{subsection.J.5.2}
-\contentsline {section}{\numberline {J.6}Prevention}{95}{section.J.6}
-\contentsline {subsection}{\numberline {J.6.1}How to Prevent Infection}{95}{subsection.J.6.1}
-\contentsline {subsection}{\numberline {J.6.2}If There is Suspicion of Infection}{96}{subsection.J.6.2}
-\contentsline {subsection}{\numberline {J.6.3}Information which will emphasize the seriousness of the problem, yet reduce inappropriate fear}{96}{subsection.J.6.3}
-\contentsline {section}{\numberline {J.7}Research and Treatment}{96}{section.J.7}
-\contentsline {section}{\numberline {J.8}Societal Issues}{96}{section.J.8}
-\contentsline {section}{\numberline {J.9}Condoms}{96}{section.J.9}
-\contentsline {subsection}{\numberline {J.9.1}How to Use the Condom}{97}{subsection.J.9.1}
+\contentsline {part}{Materials and Equipment}{53}{section*.12}
+\contentsline {chapter}{\numberline {A}Local Materials List}{55}{appendix.A}
+\contentsline {section}{\numberline {A.1}Balance}{56}{section.A.1}
+\contentsline {section}{\numberline {A.2}Beakers}{56}{section.A.2}
+\contentsline {section}{\numberline {A.3}Blowpipe}{56}{section.A.3}
+\contentsline {section}{\numberline {A.4}Bunsen Burner}{57}{section.A.4}
+\contentsline {section}{\numberline {A.5}Burettes}{57}{section.A.5}
+\contentsline {subsection}{\numberline {A.5.1}Version 1}{57}{subsection.A.5.1}
+\contentsline {subsection}{\numberline {A.5.2}Version 2}{57}{subsection.A.5.2}
+\contentsline {section}{\numberline {A.6}Containers}{57}{section.A.6}
+\contentsline {section}{\numberline {A.7}Crucible}{57}{section.A.7}
+\contentsline {section}{\numberline {A.8}Deflagrating Spoon}{57}{section.A.8}
+\contentsline {section}{\numberline {A.9}Delivery Tube}{58}{section.A.9}
+\contentsline {section}{\numberline {A.10}Drawing Board}{58}{section.A.10}
+\contentsline {section}{\numberline {A.11}Droppers}{58}{section.A.11}
+\contentsline {section}{\numberline {A.12}Electrodes}{58}{section.A.12}
+\contentsline {subsection}{\numberline {A.12.1}Graphite}{58}{subsection.A.12.1}
+\contentsline {subsection}{\numberline {A.12.2}Zinc}{58}{subsection.A.12.2}
+\contentsline {subsection}{\numberline {A.12.3}Iron}{58}{subsection.A.12.3}
+\contentsline {subsection}{\numberline {A.12.4}Copper}{58}{subsection.A.12.4}
+\contentsline {section}{\numberline {A.13}Filter Paper}{59}{section.A.13}
+\contentsline {section}{\numberline {A.14}Flasks}{59}{section.A.14}
+\contentsline {section}{\numberline {A.15}Funnel}{59}{section.A.15}
+\contentsline {section}{\numberline {A.16}Gloves}{59}{section.A.16}
+\contentsline {subsection}{\numberline {A.16.1}Latex gloves}{59}{subsection.A.16.1}
+\contentsline {subsection}{\numberline {A.16.2}Thick gloves}{59}{subsection.A.16.2}
+\contentsline {section}{\numberline {A.17}Goggles}{59}{section.A.17}
+\contentsline {section}{\numberline {A.18}Heat Sources}{60}{section.A.18}
+\contentsline {subsection}{\numberline {A.18.1}Heating Solutions}{60}{subsection.A.18.1}
+\contentsline {subsection}{\numberline {A.18.2}Heating Solids}{60}{subsection.A.18.2}
+\contentsline {subsection}{\numberline {A.18.3}Flame Tests}{60}{subsection.A.18.3}
+\contentsline {section}{\numberline {A.19}Indicator}{60}{section.A.19}
+\contentsline {section}{\numberline {A.20}Iron Filings}{60}{section.A.20}
+\contentsline {section}{\numberline {A.21}Masses}{60}{section.A.21}
+\contentsline {section}{\numberline {A.22}Measuring Cylinder}{61}{section.A.22}
+\contentsline {section}{\numberline {A.23}Metre Rule}{61}{section.A.23}
+\contentsline {section}{\numberline {A.24}Microscope}{61}{section.A.24}
+\contentsline {section}{\numberline {A.25}Mortar and Pestle}{61}{section.A.25}
+\contentsline {section}{\numberline {A.26}Optical Pins}{61}{section.A.26}
+\contentsline {section}{\numberline {A.27}Pipettes}{61}{section.A.27}
+\contentsline {section}{\numberline {A.28}Retort Stand}{61}{section.A.28}
+\contentsline {section}{\numberline {A.29}Scale Pans}{61}{section.A.29}
+\contentsline {section}{\numberline {A.30}Scalpels}{62}{section.A.30}
+\contentsline {section}{\numberline {A.31}Slides and Cover Slips}{62}{section.A.31}
+\contentsline {section}{\numberline {A.32}Spatula}{62}{section.A.32}
+\contentsline {section}{\numberline {A.33}Stoppers}{62}{section.A.33}
+\contentsline {section}{\numberline {A.34}Stopwatches}{62}{section.A.34}
+\contentsline {section}{\numberline {A.35}Test Tubes}{63}{section.A.35}
+\contentsline {subsection}{\numberline {A.35.1}Plastic Test Tubes}{63}{subsection.A.35.1}
+\contentsline {subsection}{\numberline {A.35.2}For Thermal Decomposition}{63}{subsection.A.35.2}
+\contentsline {section}{\numberline {A.36}Test Tube Brush}{63}{section.A.36}
+\contentsline {section}{\numberline {A.37}Test Tube Holder / Tongs}{63}{section.A.37}
+\contentsline {section}{\numberline {A.38}Test Tube Racks}{63}{section.A.38}
+\contentsline {section}{\numberline {A.39}Tripod Stands}{63}{section.A.39}
+\contentsline {section}{\numberline {A.40}Volumetric ``Glass''ware}{64}{section.A.40}
+\contentsline {section}{\numberline {A.41}Wash Bottle}{64}{section.A.41}
+\contentsline {section}{\numberline {A.42}Water Bath}{64}{section.A.42}
+\contentsline {section}{\numberline {A.43}Weights}{64}{section.A.43}
+\contentsline {subsection}{\numberline {A.43.1}Crude Weights}{64}{subsection.A.43.1}
+\contentsline {subsection}{\numberline {A.43.2}Adding Weight in Known Intervals}{64}{subsection.A.43.2}
+\contentsline {subsection}{\numberline {A.43.3}Precise Weights}{64}{subsection.A.43.3}
+\contentsline {section}{\numberline {A.44}White Tiles}{64}{section.A.44}
+\contentsline {section}{\numberline {A.45}Wire Gauze}{64}{section.A.45}
+\contentsline {chapter}{\numberline {B}Low Tech Microscopy}{65}{appendix.B}
+\contentsline {section}{\numberline {B.1}Water as a lens}{65}{section.B.1}
+\contentsline {section}{\numberline {B.2}Perfect circles}{65}{section.B.2}
+\contentsline {section}{\numberline {B.3}Slides}{65}{section.B.3}
+\contentsline {section}{\numberline {B.4}Backlighting}{65}{section.B.4}
+\contentsline {section}{\numberline {B.5}Simple Microscopes and \hfill \\ Magnifiers}{66}{section.B.5}
+\contentsline {subsection}{\numberline {B.5.1}Clear-Container Magnifiers}{66}{subsection.B.5.1}
+\contentsline {subsection}{\numberline {B.5.2}Simple Microscope}{66}{subsection.B.5.2}
+\contentsline {subsection}{\numberline {B.5.3}Simple Compound \hfill \\ Microscope}{66}{subsection.B.5.3}
+\contentsline {subsection}{\numberline {B.5.4}Card Bridge Microscope}{66}{subsection.B.5.4}
+\contentsline {chapter}{\numberline {C}Storage of Materials}{67}{appendix.C}
+\contentsline {section}{\numberline {C.1}The Science Box}{67}{section.C.1}
+\contentsline {section}{\numberline {C.2}Card and Picture Boxes}{67}{section.C.2}
+\contentsline {section}{\numberline {C.3}Matchbox Drawers}{67}{section.C.3}
+\contentsline {section}{\numberline {C.4}Dividing Boxes}{67}{section.C.4}
+\contentsline {section}{\numberline {C.5}Envelopes and Bags}{67}{section.C.5}
+\contentsline {chapter}{\numberline {D}Pastes and Modeling Materials}{68}{appendix.D}
+\contentsline {section}{\numberline {D.1}Papier M\^{a}ch\'{e}}{68}{section.D.1}
+\contentsline {section}{\numberline {D.2}Papier M\^{a}ch\'{e} Layering}{68}{section.D.2}
+\contentsline {section}{\numberline {D.3}Modeling Clay}{68}{section.D.3}
+\contentsline {section}{\numberline {D.4}Paste and Sand Cement}{68}{section.D.4}
+\contentsline {section}{\numberline {D.5}Flour Paste}{69}{section.D.5}
+\contentsline {section}{\numberline {D.6}Casein Glue}{69}{section.D.6}
+\contentsline {chapter}{\numberline {E}Making Biology Solutions}{70}{appendix.E}
+\contentsline {chapter}{\numberline {F}Collecting Specimens}{71}{appendix.F}
+\contentsline {section}{\numberline {F.1}Methods of Collecting and Displaying}{71}{section.F.1}
+\contentsline {subsection}{\numberline {F.1.1}Pitfall Traps}{71}{subsection.F.1.1}
+\contentsline {subsection}{\numberline {F.1.2}Worm Jar}{71}{subsection.F.1.2}
+\contentsline {subsection}{\numberline {F.1.3}Collecting Nets}{71}{subsection.F.1.3}
+\contentsline {subsection}{\numberline {F.1.4}Soil Life}{71}{subsection.F.1.4}
+\contentsline {subsection}{\numberline {F.1.5}Flying Insect Cage}{72}{subsection.F.1.5}
+\contentsline {subsection}{\numberline {F.1.6}Reptile Cage}{72}{subsection.F.1.6}
+\contentsline {subsection}{\numberline {F.1.7}Aquarium Box}{72}{subsection.F.1.7}
+\contentsline {subsection}{\numberline {F.1.8}Caring for Animals}{72}{subsection.F.1.8}
+\contentsline {section}{\numberline {F.2}O-Level Biology Specimens}{73}{section.F.2}
+\contentsline {subsection}{\numberline {F.2.1}Kingdom Fungi}{73}{subsection.F.2.1}
+\contentsline {subsubsection}{\numberline {F.2.1.1}Phlyum Basidiomycota}{73}{subsubsection.F.2.1.1}
+\contentsline {paragraph}{Collection}{73}{paragraph*.14}
+\contentsline {paragraph}{Preservation}{73}{paragraph*.15}
+\contentsline {paragraph}{Dissection}{73}{paragraph*.16}
+\contentsline {subsubsection}{\numberline {F.2.1.2}Phylum Zygomycota}{73}{subsubsection.F.2.1.2}
+\contentsline {paragraph}{Collection}{73}{paragraph*.17}
+\contentsline {subsubsection}{\numberline {F.2.1.3}Phylum Ascomycota}{73}{subsubsection.F.2.1.3}
+\contentsline {paragraph}{Collection}{73}{paragraph*.18}
+\contentsline {paragraph}{Preservation}{73}{paragraph*.19}
+\contentsline {subsection}{\numberline {F.2.2}Kingdom Plantae}{74}{subsection.F.2.2}
+\contentsline {subsubsection}{\numberline {F.2.2.1}Division Bryophyta}{74}{subsubsection.F.2.2.1}
+\contentsline {paragraph}{Collection}{74}{paragraph*.20}
+\contentsline {paragraph}{Preservation}{74}{paragraph*.21}
+\contentsline {subsubsection}{\numberline {F.2.2.2}Division Filicinophyta}{74}{subsubsection.F.2.2.2}
+\contentsline {paragraph}{Collection}{74}{paragraph*.22}
+\contentsline {paragraph}{Preservation}{74}{paragraph*.23}
+\contentsline {subsubsection}{\numberline {F.2.2.3}Division Coniferophyta}{74}{subsubsection.F.2.2.3}
+\contentsline {paragraph}{Collection}{74}{paragraph*.24}
+\contentsline {paragraph}{Preservation}{74}{paragraph*.25}
+\contentsline {subsubsection}{\numberline {F.2.2.4}Division Angiospermophyta}{75}{subsubsection.F.2.2.4}
+\contentsline {paragraph}{\numberline {F.2.2.4.1}\textbf {Monocotyledons}}{75}{paragraph.F.2.2.4.1}
+\contentsline {paragraph}{\numberline {F.2.2.4.2}\textbf {Dicotyledons}}{75}{paragraph.F.2.2.4.2}
+\contentsline {subparagraph}{Collection}{75}{subparagraph*.26}
+\contentsline {subparagraph}{Preservation}{75}{subparagraph*.27}
+\contentsline {subparagraph}{Dissection}{75}{subparagraph*.28}
+\contentsline {subsection}{\numberline {F.2.3}Kingdom Animalia}{76}{subsection.F.2.3}
+\contentsline {subsubsection}{\numberline {F.2.3.1}Phylum Platyhelminthes}{76}{subsubsection.F.2.3.1}
+\contentsline {paragraph}{Collection}{76}{paragraph*.29}
+\contentsline {paragraph}{Preservation}{76}{paragraph*.30}
+\contentsline {paragraph}{Killing}{76}{paragraph*.31}
+\contentsline {paragraph}{Dissection}{76}{paragraph*.32}
+\contentsline {subsubsection}{\numberline {F.2.3.2}Phylum Nematoda or \hfill \\ Ascehelminthyes}{76}{subsubsection.F.2.3.2}
+\contentsline {paragraph}{Collection}{76}{paragraph*.33}
+\contentsline {paragraph}{Preservation}{76}{paragraph*.34}
+\contentsline {paragraph}{Killing}{76}{paragraph*.35}
+\contentsline {paragraph}{Dissection}{76}{paragraph*.36}
+\contentsline {subsubsection}{\numberline {F.2.3.3}Phylum Annelida}{76}{subsubsection.F.2.3.3}
+\contentsline {paragraph}{Collection}{77}{paragraph*.37}
+\contentsline {paragraph}{Preservation}{77}{paragraph*.38}
+\contentsline {paragraph}{Killing}{77}{paragraph*.39}
+\contentsline {paragraph}{Dissection}{77}{paragraph*.40}
+\contentsline {subsubsection}{\numberline {F.2.3.4}Phylum Arthropoda}{77}{subsubsection.F.2.3.4}
+\contentsline {paragraph}{\numberline {F.2.3.4.1}Class Insecta}{77}{paragraph.F.2.3.4.1}
+\contentsline {subparagraph}{Collection}{77}{subparagraph*.41}
+\contentsline {subparagraph}{Preservation}{77}{subparagraph*.42}
+\contentsline {subparagraph}{Killing}{77}{subparagraph*.43}
+\contentsline {subparagraph}{Dissection}{77}{subparagraph*.44}
+\contentsline {paragraph}{\numberline {F.2.3.4.2}Class Crustacea}{77}{paragraph.F.2.3.4.2}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.45}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.46}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.47}
+\contentsline {subparagraph}{Dissection}{78}{subparagraph*.48}
+\contentsline {paragraph}{\numberline {F.2.3.4.3}Class Arachnida}{78}{paragraph.F.2.3.4.3}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.49}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.50}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.51}
+\contentsline {paragraph}{\numberline {F.2.3.4.4}Class Chilopoda}{78}{paragraph.F.2.3.4.4}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.52}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.53}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.54}
+\contentsline {paragraph}{\numberline {F.2.3.4.5}Class Diplopoda}{78}{paragraph.F.2.3.4.5}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.55}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.56}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.57}
+\contentsline {subsubsection}{\numberline {F.2.3.5}Phylum Chordata}{79}{subsubsection.F.2.3.5}
+\contentsline {paragraph}{\numberline {F.2.3.5.1}Class Chondrichthyes}{79}{paragraph.F.2.3.5.1}
+\contentsline {subparagraph}{Collection}{79}{subparagraph*.58}
+\contentsline {subparagraph}{Preservation}{79}{subparagraph*.59}
+\contentsline {subparagraph}{Killing}{79}{subparagraph*.60}
+\contentsline {subparagraph}{Dissection}{79}{subparagraph*.61}
+\contentsline {paragraph}{\numberline {F.2.3.5.2}Class Osteichthyes}{79}{paragraph.F.2.3.5.2}
+\contentsline {subparagraph}{Collection}{79}{subparagraph*.62}
+\contentsline {subparagraph}{Preservation}{79}{subparagraph*.63}
+\contentsline {subparagraph}{Killing}{79}{subparagraph*.64}
+\contentsline {subparagraph}{Dissection}{80}{subparagraph*.65}
+\contentsline {paragraph}{\numberline {F.2.3.5.3}Class Amphibia}{80}{paragraph.F.2.3.5.3}
+\contentsline {subparagraph}{Collection}{80}{subparagraph*.66}
+\contentsline {subparagraph}{Preservation}{80}{subparagraph*.67}
+\contentsline {subparagraph}{Killing}{80}{subparagraph*.68}
+\contentsline {subparagraph}{Dissection}{80}{subparagraph*.69}
+\contentsline {paragraph}{\numberline {F.2.3.5.4}Class Reptilia}{80}{paragraph.F.2.3.5.4}
+\contentsline {subparagraph}{Collection}{80}{subparagraph*.70}
+\contentsline {subparagraph}{Preservation}{80}{subparagraph*.71}
+\contentsline {subparagraph}{Killing}{80}{subparagraph*.72}
+\contentsline {subparagraph}{Dissection}{80}{subparagraph*.73}
+\contentsline {paragraph}{\numberline {F.2.3.5.5}Class Aves}{80}{paragraph.F.2.3.5.5}
+\contentsline {subparagraph}{Collection}{81}{subparagraph*.74}
+\contentsline {subparagraph}{Preservation}{81}{subparagraph*.75}
+\contentsline {subparagraph}{Killing}{81}{subparagraph*.76}
+\contentsline {subparagraph}{Dissection}{81}{subparagraph*.77}
+\contentsline {paragraph}{\numberline {F.2.3.5.6}Class Mammalia}{81}{paragraph.F.2.3.5.6}
+\contentsline {subparagraph}{Collection}{81}{subparagraph*.78}
+\contentsline {subparagraph}{Preservation}{81}{subparagraph*.79}
+\contentsline {subparagraph}{Killing}{81}{subparagraph*.80}
+\contentsline {subparagraph}{Dissection}{81}{subparagraph*.81}
+\contentsline {part}{Interactive Learning}{81}{section*.82}
+\contentsline {chapter}{\numberline {G}Visual Aids and Displays}{83}{appendix.G}
+\contentsline {section}{\numberline {G.1}Science Corner}{83}{section.G.1}
+\contentsline {section}{\numberline {G.2}Cardboard Box Displays}{84}{section.G.2}
+\contentsline {subsection}{\numberline {G.2.1}Zigzag Multiboards}{84}{subsection.G.2.1}
+\contentsline {subsection}{\numberline {G.2.2}Portability}{84}{subsection.G.2.2}
+\contentsline {section}{\numberline {G.3}Hanging Displays}{84}{section.G.3}
+\contentsline {subsection}{\numberline {G.3.1}Display Beams and Hooks}{84}{subsection.G.3.1}
+\contentsline {subsection}{\numberline {G.3.2}Display Charts}{85}{subsection.G.3.2}
+\contentsline {subsection}{\numberline {G.3.3}String Display Lines}{85}{subsection.G.3.3}
+\contentsline {subsection}{\numberline {G.3.4}Carrier Bag Display}{86}{subsection.G.3.4}
+\contentsline {section}{\numberline {G.4}Transparent Flip-Sheets}{86}{section.G.4}
+\contentsline {section}{\numberline {G.5}Clothing Posters}{86}{section.G.5}
+\contentsline {section}{\numberline {G.6}Magnet Boards}{86}{section.G.6}
+\contentsline {chapter}{\numberline {H}Science Outside the Classroom}{87}{appendix.H}
+\contentsline {section}{\numberline {H.1}Science Clubs}{87}{section.H.1}
+\contentsline {subsection}{\numberline {H.1.1}Organizing a Club}{87}{subsection.H.1.1}
+\contentsline {subsection}{\numberline {H.1.2}Activities Record Book}{88}{subsection.H.1.2}
+\contentsline {subsection}{\numberline {H.1.3}Science Notice Board}{88}{subsection.H.1.3}
+\contentsline {subsection}{\numberline {H.1.4}Science in the News Book}{88}{subsection.H.1.4}
+\contentsline {subsection}{\numberline {H.1.5}Personal Science Kits}{88}{subsection.H.1.5}
+\contentsline {subsection}{\numberline {H.1.6}Collections and Research}{89}{subsection.H.1.6}
+\contentsline {subsection}{\numberline {H.1.7}Additional Practicals}{89}{subsection.H.1.7}
+\contentsline {section}{\numberline {H.2}Science Fairs}{89}{section.H.2}
+\contentsline {section}{\numberline {H.3}Science Competitions}{89}{section.H.3}
+\contentsline {section}{\numberline {H.4}Science Conferences \hfill \\ and Camps}{90}{section.H.4}
+\contentsline {section}{\numberline {H.5}Field Trips}{90}{section.H.5}
+\contentsline {chapter}{\numberline {I}Science in the Community}{91}{appendix.I}
+\contentsline {section}{\numberline {I.1}Science for All}{91}{section.I.1}
+\contentsline {section}{\numberline {I.2}Science Target Groups}{91}{section.I.2}
+\contentsline {section}{\numberline {I.3}Environmental \hfill \\ Awareness}{92}{section.I.3}
+\contentsline {section}{\numberline {I.4}Wildlife Conservation}{92}{section.I.4}
+\contentsline {section}{\numberline {I.5}Science and Health}{93}{section.I.5}
+\contentsline {chapter}{\numberline {J}HIV/AIDS Awareness}{94}{appendix.J}
+\contentsline {section}{\numberline {J.1}Introduction}{94}{section.J.1}
+\contentsline {section}{\numberline {J.2}AIDS - Current Information}{94}{section.J.2}
+\contentsline {section}{\numberline {J.3}Description and Cause of AIDS}{95}{section.J.3}
+\contentsline {section}{\numberline {J.4}Clinical Manifestations}{95}{section.J.4}
+\contentsline {section}{\numberline {J.5}Transmission}{96}{section.J.5}
+\contentsline {subsection}{\numberline {J.5.1}How the virus is NOT known to be spread}{97}{subsection.J.5.1}
+\contentsline {subsection}{\numberline {J.5.2}Major Risk Factors}{97}{subsection.J.5.2}
+\contentsline {section}{\numberline {J.6}Prevention}{97}{section.J.6}
+\contentsline {subsection}{\numberline {J.6.1}How to Prevent Infection}{97}{subsection.J.6.1}
+\contentsline {subsection}{\numberline {J.6.2}If There is Suspicion of Infection}{98}{subsection.J.6.2}
+\contentsline {subsection}{\numberline {J.6.3}Information which will emphasize the seriousness of the problem, yet reduce inappropriate fear}{98}{subsection.J.6.3}
+\contentsline {section}{\numberline {J.7}Research and Treatment}{98}{section.J.7}
+\contentsline {section}{\numberline {J.8}Societal Issues}{98}{section.J.8}
+\contentsline {section}{\numberline {J.9}Condoms}{98}{section.J.9}
+\contentsline {subsection}{\numberline {J.9.1}How to Use the Condom}{99}{subsection.J.9.1}
