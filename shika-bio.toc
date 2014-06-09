@@ -1,5 +1,5 @@
 
-\contentsline {part}{I\hspace {1em}Hands-On Activities}{6}{part.1}
+\contentsline {part}{Hands-On Activities}{6}{section*.2}
 \save@tocdepth \setcounter {tocdepth}{2}
 \contentsline {chapter}{\numberline {1}Biology Activities for Form I}{7}{chapter.1}
 \contentsline {section}{\numberline {1.1}Introduction to Biology}{7}{section.1.1}
@@ -128,17 +128,17 @@
 \contentsline {chapter}{\numberline {3}Biology Activities for Form III}{40}{chapter.3}
 \contentsline {section}{\numberline {3.1}Movement}{40}{section.3.1}
 \contentsline {subsection}{\numberline {3.1.1}Paper Skeleton}{40}{subsection.3.1.1}
-\contentsline {subsubsection}{Skull and Pelvis}{40}{subsubsection*.2}
-\contentsline {subsubsection}{Limbs}{40}{subsubsection*.3}
-\contentsline {subsubsection}{Rib Cage}{40}{subsubsection*.4}
-\contentsline {subsubsection}{Backbone}{40}{subsubsection*.5}
-\contentsline {subsubsection}{Hands and Feet}{40}{subsubsection*.6}
+\contentsline {subsubsection}{Skull and Pelvis}{40}{subsubsection*.4}
+\contentsline {subsubsection}{Limbs}{40}{subsubsection*.5}
+\contentsline {subsubsection}{Rib Cage}{40}{subsubsection*.6}
+\contentsline {subsubsection}{Backbone}{40}{subsubsection*.7}
+\contentsline {subsubsection}{Hands and Feet}{40}{subsubsection*.8}
 \contentsline {subsection}{\numberline {3.1.2}Robotic Hand}{41}{subsection.3.1.2}
-\contentsline {subsubsection}{Hand Structure}{41}{subsubsection*.7}
-\contentsline {subsubsection}{Fingers}{41}{subsubsection*.8}
-\contentsline {subsubsection}{Attach Fingers}{41}{subsubsection*.9}
-\contentsline {subsubsection}{Moving Joints}{42}{subsubsection*.10}
-\contentsline {subsubsection}{Completing the Hand}{42}{subsubsection*.11}
+\contentsline {subsubsection}{Hand Structure}{41}{subsubsection*.9}
+\contentsline {subsubsection}{Fingers}{41}{subsubsection*.10}
+\contentsline {subsubsection}{Attach Fingers}{41}{subsubsection*.11}
+\contentsline {subsubsection}{Moving Joints}{42}{subsubsection*.12}
+\contentsline {subsubsection}{Completing the Hand}{42}{subsubsection*.13}
 \contentsline {subsection}{\numberline {3.1.3}Ball and Socket}{42}{subsection.3.1.3}
 \contentsline {subsection}{\numberline {3.1.4}Hinge Joint}{42}{subsection.3.1.4}
 \contentsline {subsection}{\numberline {3.1.5}Sliding Joint}{42}{subsection.3.1.5}
@@ -187,9 +187,9 @@
 \contentsline {subsection}{\numberline {4.2.7}Determining Sex of a Child}{52}{subsection.4.2.7}
 \contentsline {section}{\numberline {4.3}Evolution}{53}{section.4.3}
 \contentsline {subsection}{\numberline {4.3.1}Natural Selection Game}{53}{subsection.4.3.1}
-\contentsline {part}{Appendix}{54}{section*.12}
+\contentsline {part}{Appendix}{54}{section*.14}
 \save@tocdepth \setcounter {tocdepth}{0}
-\contentsline {part}{Materials and Equipment}{54}{section*.13}
+\contentsline {part}{Materials and Equipment}{54}{section*.15}
 \contentsline {chapter}{\numberline {A}Local Materials List}{55}{appendix.A}
 \contentsline {section}{\numberline {A.1}Balance}{56}{section.A.1}
 \contentsline {section}{\numberline {A.2}Beakers}{56}{section.A.2}
@@ -216,7 +216,7 @@
 \contentsline {subsection}{\numberline {A.16.1}Latex gloves}{59}{subsection.A.16.1}
 \contentsline {subsection}{\numberline {A.16.2}Thick gloves}{59}{subsection.A.16.2}
 \contentsline {section}{\numberline {A.17}Goggles}{59}{section.A.17}
-\contentsline {section}{\numberline {A.18}Heat Sources}{60}{section.A.18}
+\contentsline {section}{\numberline {A.18}Heat Source}{60}{section.A.18}
 \contentsline {subsection}{\numberline {A.18.1}Heating Solutions}{60}{subsection.A.18.1}
 \contentsline {subsection}{\numberline {A.18.2}Heating Solids}{60}{subsection.A.18.2}
 \contentsline {subsection}{\numberline {A.18.3}Flame Tests}{60}{subsection.A.18.3}
@@ -289,101 +289,101 @@
 \contentsline {section}{\numberline {F.2}O-Level Biology Specimens}{73}{section.F.2}
 \contentsline {subsection}{\numberline {F.2.1}Kingdom Fungi}{73}{subsection.F.2.1}
 \contentsline {subsubsection}{\numberline {F.2.1.1}Phlyum Basidiomycota}{73}{subsubsection.F.2.1.1}
-\contentsline {paragraph}{Collection}{73}{paragraph*.15}
-\contentsline {paragraph}{Preservation}{73}{paragraph*.16}
-\contentsline {paragraph}{Dissection}{73}{paragraph*.17}
+\contentsline {paragraph}{Collection}{73}{paragraph*.17}
+\contentsline {paragraph}{Preservation}{73}{paragraph*.18}
+\contentsline {paragraph}{Dissection}{73}{paragraph*.19}
 \contentsline {subsubsection}{\numberline {F.2.1.2}Phylum Zygomycota}{73}{subsubsection.F.2.1.2}
-\contentsline {paragraph}{Collection}{73}{paragraph*.18}
+\contentsline {paragraph}{Collection}{73}{paragraph*.20}
 \contentsline {subsubsection}{\numberline {F.2.1.3}Phylum Ascomycota}{73}{subsubsection.F.2.1.3}
-\contentsline {paragraph}{Collection}{73}{paragraph*.19}
-\contentsline {paragraph}{Preservation}{73}{paragraph*.20}
+\contentsline {paragraph}{Collection}{73}{paragraph*.21}
+\contentsline {paragraph}{Preservation}{73}{paragraph*.22}
 \contentsline {subsection}{\numberline {F.2.2}Kingdom Plantae}{74}{subsection.F.2.2}
 \contentsline {subsubsection}{\numberline {F.2.2.1}Division Bryophyta}{74}{subsubsection.F.2.2.1}
-\contentsline {paragraph}{Collection}{74}{paragraph*.21}
-\contentsline {paragraph}{Preservation}{74}{paragraph*.22}
-\contentsline {subsubsection}{\numberline {F.2.2.2}Division Filicinophyta}{74}{subsubsection.F.2.2.2}
 \contentsline {paragraph}{Collection}{74}{paragraph*.23}
 \contentsline {paragraph}{Preservation}{74}{paragraph*.24}
-\contentsline {subsubsection}{\numberline {F.2.2.3}Division Coniferophyta}{74}{subsubsection.F.2.2.3}
+\contentsline {subsubsection}{\numberline {F.2.2.2}Division Filicinophyta}{74}{subsubsection.F.2.2.2}
 \contentsline {paragraph}{Collection}{74}{paragraph*.25}
 \contentsline {paragraph}{Preservation}{74}{paragraph*.26}
+\contentsline {subsubsection}{\numberline {F.2.2.3}Division Coniferophyta}{74}{subsubsection.F.2.2.3}
+\contentsline {paragraph}{Collection}{74}{paragraph*.27}
+\contentsline {paragraph}{Preservation}{74}{paragraph*.28}
 \contentsline {subsubsection}{\numberline {F.2.2.4}Division Angiospermophyta}{75}{subsubsection.F.2.2.4}
 \contentsline {paragraph}{\numberline {F.2.2.4.1}\textbf {Monocotyledons}}{75}{paragraph.F.2.2.4.1}
 \contentsline {paragraph}{\numberline {F.2.2.4.2}\textbf {Dicotyledons}}{75}{paragraph.F.2.2.4.2}
-\contentsline {subparagraph}{Collection}{75}{subparagraph*.27}
-\contentsline {subparagraph}{Preservation}{75}{subparagraph*.28}
-\contentsline {subparagraph}{Dissection}{75}{subparagraph*.29}
+\contentsline {subparagraph}{Collection}{75}{subparagraph*.29}
+\contentsline {subparagraph}{Preservation}{75}{subparagraph*.30}
+\contentsline {subparagraph}{Dissection}{75}{subparagraph*.31}
 \contentsline {subsection}{\numberline {F.2.3}Kingdom Animalia}{76}{subsection.F.2.3}
 \contentsline {subsubsection}{\numberline {F.2.3.1}Phylum Platyhelminthes}{76}{subsubsection.F.2.3.1}
-\contentsline {paragraph}{Collection}{76}{paragraph*.30}
-\contentsline {paragraph}{Preservation}{76}{paragraph*.31}
-\contentsline {paragraph}{Killing}{76}{paragraph*.32}
-\contentsline {paragraph}{Dissection}{76}{paragraph*.33}
+\contentsline {paragraph}{Collection}{76}{paragraph*.32}
+\contentsline {paragraph}{Preservation}{76}{paragraph*.33}
+\contentsline {paragraph}{Killing}{76}{paragraph*.34}
+\contentsline {paragraph}{Dissection}{76}{paragraph*.35}
 \contentsline {subsubsection}{\numberline {F.2.3.2}Phylum Nematoda or \hfill \\ Ascehelminthyes}{76}{subsubsection.F.2.3.2}
-\contentsline {paragraph}{Collection}{76}{paragraph*.34}
-\contentsline {paragraph}{Preservation}{76}{paragraph*.35}
-\contentsline {paragraph}{Killing}{76}{paragraph*.36}
-\contentsline {paragraph}{Dissection}{76}{paragraph*.37}
+\contentsline {paragraph}{Collection}{76}{paragraph*.36}
+\contentsline {paragraph}{Preservation}{76}{paragraph*.37}
+\contentsline {paragraph}{Killing}{76}{paragraph*.38}
+\contentsline {paragraph}{Dissection}{76}{paragraph*.39}
 \contentsline {subsubsection}{\numberline {F.2.3.3}Phylum Annelida}{76}{subsubsection.F.2.3.3}
-\contentsline {paragraph}{Collection}{77}{paragraph*.38}
-\contentsline {paragraph}{Preservation}{77}{paragraph*.39}
-\contentsline {paragraph}{Killing}{77}{paragraph*.40}
-\contentsline {paragraph}{Dissection}{77}{paragraph*.41}
+\contentsline {paragraph}{Collection}{77}{paragraph*.40}
+\contentsline {paragraph}{Preservation}{77}{paragraph*.41}
+\contentsline {paragraph}{Killing}{77}{paragraph*.42}
+\contentsline {paragraph}{Dissection}{77}{paragraph*.43}
 \contentsline {subsubsection}{\numberline {F.2.3.4}Phylum Arthropoda}{77}{subsubsection.F.2.3.4}
 \contentsline {paragraph}{\numberline {F.2.3.4.1}Class Insecta}{77}{paragraph.F.2.3.4.1}
-\contentsline {subparagraph}{Collection}{77}{subparagraph*.42}
-\contentsline {subparagraph}{Preservation}{77}{subparagraph*.43}
-\contentsline {subparagraph}{Killing}{77}{subparagraph*.44}
-\contentsline {subparagraph}{Dissection}{77}{subparagraph*.45}
+\contentsline {subparagraph}{Collection}{77}{subparagraph*.44}
+\contentsline {subparagraph}{Preservation}{77}{subparagraph*.45}
+\contentsline {subparagraph}{Killing}{77}{subparagraph*.46}
+\contentsline {subparagraph}{Dissection}{77}{subparagraph*.47}
 \contentsline {paragraph}{\numberline {F.2.3.4.2}Class Crustacea}{77}{paragraph.F.2.3.4.2}
-\contentsline {subparagraph}{Collection}{78}{subparagraph*.46}
-\contentsline {subparagraph}{Preservation}{78}{subparagraph*.47}
-\contentsline {subparagraph}{Killing}{78}{subparagraph*.48}
-\contentsline {subparagraph}{Dissection}{78}{subparagraph*.49}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.48}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.49}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.50}
+\contentsline {subparagraph}{Dissection}{78}{subparagraph*.51}
 \contentsline {paragraph}{\numberline {F.2.3.4.3}Class Arachnida}{78}{paragraph.F.2.3.4.3}
-\contentsline {subparagraph}{Collection}{78}{subparagraph*.50}
-\contentsline {subparagraph}{Preservation}{78}{subparagraph*.51}
-\contentsline {subparagraph}{Killing}{78}{subparagraph*.52}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.52}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.53}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.54}
 \contentsline {paragraph}{\numberline {F.2.3.4.4}Class Chilopoda}{78}{paragraph.F.2.3.4.4}
-\contentsline {subparagraph}{Collection}{78}{subparagraph*.53}
-\contentsline {subparagraph}{Preservation}{78}{subparagraph*.54}
-\contentsline {subparagraph}{Killing}{78}{subparagraph*.55}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.55}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.56}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.57}
 \contentsline {paragraph}{\numberline {F.2.3.4.5}Class Diplopoda}{78}{paragraph.F.2.3.4.5}
-\contentsline {subparagraph}{Collection}{78}{subparagraph*.56}
-\contentsline {subparagraph}{Preservation}{78}{subparagraph*.57}
-\contentsline {subparagraph}{Killing}{78}{subparagraph*.58}
+\contentsline {subparagraph}{Collection}{78}{subparagraph*.58}
+\contentsline {subparagraph}{Preservation}{78}{subparagraph*.59}
+\contentsline {subparagraph}{Killing}{78}{subparagraph*.60}
 \contentsline {subsubsection}{\numberline {F.2.3.5}Phylum Chordata}{79}{subsubsection.F.2.3.5}
 \contentsline {paragraph}{\numberline {F.2.3.5.1}Class Chondrichthyes}{79}{paragraph.F.2.3.5.1}
-\contentsline {subparagraph}{Collection}{79}{subparagraph*.59}
-\contentsline {subparagraph}{Preservation}{79}{subparagraph*.60}
-\contentsline {subparagraph}{Killing}{79}{subparagraph*.61}
-\contentsline {subparagraph}{Dissection}{79}{subparagraph*.62}
+\contentsline {subparagraph}{Collection}{79}{subparagraph*.61}
+\contentsline {subparagraph}{Preservation}{79}{subparagraph*.62}
+\contentsline {subparagraph}{Killing}{79}{subparagraph*.63}
+\contentsline {subparagraph}{Dissection}{79}{subparagraph*.64}
 \contentsline {paragraph}{\numberline {F.2.3.5.2}Class Osteichthyes}{79}{paragraph.F.2.3.5.2}
-\contentsline {subparagraph}{Collection}{79}{subparagraph*.63}
-\contentsline {subparagraph}{Preservation}{79}{subparagraph*.64}
-\contentsline {subparagraph}{Killing}{79}{subparagraph*.65}
-\contentsline {subparagraph}{Dissection}{80}{subparagraph*.66}
+\contentsline {subparagraph}{Collection}{79}{subparagraph*.65}
+\contentsline {subparagraph}{Preservation}{79}{subparagraph*.66}
+\contentsline {subparagraph}{Killing}{79}{subparagraph*.67}
+\contentsline {subparagraph}{Dissection}{80}{subparagraph*.68}
 \contentsline {paragraph}{\numberline {F.2.3.5.3}Class Amphibia}{80}{paragraph.F.2.3.5.3}
-\contentsline {subparagraph}{Collection}{80}{subparagraph*.67}
-\contentsline {subparagraph}{Preservation}{80}{subparagraph*.68}
-\contentsline {subparagraph}{Killing}{80}{subparagraph*.69}
-\contentsline {subparagraph}{Dissection}{80}{subparagraph*.70}
+\contentsline {subparagraph}{Collection}{80}{subparagraph*.69}
+\contentsline {subparagraph}{Preservation}{80}{subparagraph*.70}
+\contentsline {subparagraph}{Killing}{80}{subparagraph*.71}
+\contentsline {subparagraph}{Dissection}{80}{subparagraph*.72}
 \contentsline {paragraph}{\numberline {F.2.3.5.4}Class Reptilia}{80}{paragraph.F.2.3.5.4}
-\contentsline {subparagraph}{Collection}{80}{subparagraph*.71}
-\contentsline {subparagraph}{Preservation}{80}{subparagraph*.72}
-\contentsline {subparagraph}{Killing}{80}{subparagraph*.73}
-\contentsline {subparagraph}{Dissection}{80}{subparagraph*.74}
+\contentsline {subparagraph}{Collection}{80}{subparagraph*.73}
+\contentsline {subparagraph}{Preservation}{80}{subparagraph*.74}
+\contentsline {subparagraph}{Killing}{80}{subparagraph*.75}
+\contentsline {subparagraph}{Dissection}{80}{subparagraph*.76}
 \contentsline {paragraph}{\numberline {F.2.3.5.5}Class Aves}{80}{paragraph.F.2.3.5.5}
-\contentsline {subparagraph}{Collection}{81}{subparagraph*.75}
-\contentsline {subparagraph}{Preservation}{81}{subparagraph*.76}
-\contentsline {subparagraph}{Killing}{81}{subparagraph*.77}
-\contentsline {subparagraph}{Dissection}{81}{subparagraph*.78}
+\contentsline {subparagraph}{Collection}{81}{subparagraph*.77}
+\contentsline {subparagraph}{Preservation}{81}{subparagraph*.78}
+\contentsline {subparagraph}{Killing}{81}{subparagraph*.79}
+\contentsline {subparagraph}{Dissection}{81}{subparagraph*.80}
 \contentsline {paragraph}{\numberline {F.2.3.5.6}Class Mammalia}{81}{paragraph.F.2.3.5.6}
-\contentsline {subparagraph}{Collection}{81}{subparagraph*.79}
-\contentsline {subparagraph}{Preservation}{81}{subparagraph*.80}
-\contentsline {subparagraph}{Killing}{81}{subparagraph*.81}
-\contentsline {subparagraph}{Dissection}{81}{subparagraph*.82}
-\contentsline {part}{Interactive Learning}{81}{section*.83}
+\contentsline {subparagraph}{Collection}{81}{subparagraph*.81}
+\contentsline {subparagraph}{Preservation}{81}{subparagraph*.82}
+\contentsline {subparagraph}{Killing}{81}{subparagraph*.83}
+\contentsline {subparagraph}{Dissection}{81}{subparagraph*.84}
+\contentsline {part}{Interactive Learning}{82}{section*.85}
 \contentsline {chapter}{\numberline {G}Visual Aids and Displays}{83}{appendix.G}
 \contentsline {section}{\numberline {G.1}Science Corner}{83}{section.G.1}
 \contentsline {section}{\numberline {G.2}Cardboard Box Displays}{84}{section.G.2}
@@ -433,3 +433,4 @@
 \contentsline {section}{\numberline {J.9}Condoms}{98}{section.J.9}
 \contentsline {subsection}{\numberline {J.9.1}How to Use the Condom}{99}{subsection.J.9.1}
 \contentsline {chapter}{\numberline {K}Activity Template}{100}{appendix.K}
+\contentsline {chapter}{Index}{101}{section*.87}

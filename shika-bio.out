@@ -1,5 +1,5 @@
-\BOOKMARK [-1][-]{part.1}{I Hands-On Activities}{}% 1
-\BOOKMARK [0][-]{chapter.1}{Biology Activities for Form I}{part.1}% 2
+\BOOKMARK [-1][-]{section*.2}{Hands-On Activities}{}% 1
+\BOOKMARK [0][-]{chapter.1}{Biology Activities for Form I}{section*.2}% 2
 \BOOKMARK [1][-]{section.1.1}{Introduction to Biology}{chapter.1}% 3
 \BOOKMARK [2][-]{subsection.1.1.1}{Obvious Characteristics of Living Things}{section.1.1}% 4
 \BOOKMARK [2][-]{subsection.1.1.2}{Other Characteristics of Living Things}{section.1.1}% 5
@@ -39,7 +39,7 @@
 \BOOKMARK [2][-]{subsection.1.5.4}{Classifying Leaves}{section.1.5}% 39
 \BOOKMARK [2][-]{subsection.1.5.5}{Scavenger Hunt}{section.1.5}% 40
 \BOOKMARK [2][-]{subsection.1.5.6}{Display Boards}{section.1.5}% 41
-\BOOKMARK [0][-]{chapter.2}{Biology Activities for Form II}{part.1}% 42
+\BOOKMARK [0][-]{chapter.2}{Biology Activities for Form II}{section*.2}% 42
 \BOOKMARK [1][-]{section.2.1}{Nutrition}{chapter.2}% 43
 \BOOKMARK [2][-]{subsection.2.1.1}{Lipids - Fats and Oils}{section.2.1}% 44
 \BOOKMARK [2][-]{subsection.2.1.2}{Solubility of Fats and Oils}{section.2.1}% 45
@@ -123,7 +123,7 @@
 \BOOKMARK [2][-]{subsection.2.4.9}{Yeast Balloons}{section.2.4}% 123
 \BOOKMARK [2][-]{subsection.2.4.10}{Fermenting Fruits}{section.2.4}% 124
 \BOOKMARK [2][-]{subsection.2.4.11}{Fermenting Sugar}{section.2.4}% 125
-\BOOKMARK [0][-]{chapter.3}{Biology Activities for Form III}{part.1}% 126
+\BOOKMARK [0][-]{chapter.3}{Biology Activities for Form III}{section*.2}% 126
 \BOOKMARK [1][-]{section.3.1}{Movement}{chapter.3}% 127
 \BOOKMARK [2][-]{subsection.3.1.1}{Paper Skeleton}{section.3.1}% 128
 \BOOKMARK [2][-]{subsection.3.1.2}{Robotic Hand}{section.3.1}% 129
@@ -159,7 +159,7 @@
 \BOOKMARK [2][-]{subsection.3.4.5}{Sperm Model}{section.3.4}% 159
 \BOOKMARK [2][-]{subsection.3.4.6}{Amniotic Sac Protection}{section.3.4}% 160
 \BOOKMARK [2][-]{subsection.3.4.7}{Fertilisation}{section.3.4}% 161
-\BOOKMARK [0][-]{chapter.4}{Biology Activities for Form IV}{part.1}% 162
+\BOOKMARK [0][-]{chapter.4}{Biology Activities for Form IV}{section*.2}% 162
 \BOOKMARK [1][-]{section.4.1}{Growth}{chapter.4}% 163
 \BOOKMARK [2][-]{subsection.4.1.1}{Mitosis Model}{section.4.1}% 164
 \BOOKMARK [2][-]{subsection.4.1.2}{Seed Germination}{section.4.1}% 165
@@ -175,9 +175,9 @@
 \BOOKMARK [2][-]{subsection.4.2.7}{Determining Sex of a Child}{section.4.2}% 175
 \BOOKMARK [1][-]{section.4.3}{Evolution}{chapter.4}% 176
 \BOOKMARK [2][-]{subsection.4.3.1}{Natural Selection Game}{section.4.3}% 177
-\BOOKMARK [-1][-]{section*.12}{Appendix}{}% 178
-\BOOKMARK [-1][-]{section*.13}{Materials and Equipment}{}% 179
-\BOOKMARK [0][-]{appendix.A}{Local Materials List}{section*.13}% 180
+\BOOKMARK [-1][-]{section*.14}{Appendix}{}% 178
+\BOOKMARK [-1][-]{section*.15}{Materials and Equipment}{}% 179
+\BOOKMARK [0][-]{appendix.A}{Local Materials List}{section*.15}% 180
 \BOOKMARK [1][-]{section.A.1}{Balance}{appendix.A}% 181
 \BOOKMARK [1][-]{section.A.2}{Beakers}{appendix.A}% 182
 \BOOKMARK [1][-]{section.A.3}{Blowpipe}{appendix.A}% 183
@@ -203,7 +203,7 @@
 \BOOKMARK [2][-]{subsection.A.16.1}{Latex gloves}{section.A.16}% 203
 \BOOKMARK [2][-]{subsection.A.16.2}{Thick gloves}{section.A.16}% 204
 \BOOKMARK [1][-]{section.A.17}{Goggles}{appendix.A}% 205
-\BOOKMARK [1][-]{section.A.18}{Heat Sources}{appendix.A}% 206
+\BOOKMARK [1][-]{section.A.18}{Heat Source}{appendix.A}% 206
 \BOOKMARK [2][-]{subsection.A.18.1}{Heating Solutions}{section.A.18}% 207
 \BOOKMARK [2][-]{subsection.A.18.2}{Heating Solids}{section.A.18}% 208
 \BOOKMARK [2][-]{subsection.A.18.3}{Flame Tests}{section.A.18}% 209
@@ -239,7 +239,7 @@
 \BOOKMARK [2][-]{subsection.A.43.3}{Precise Weights}{section.A.43}% 239
 \BOOKMARK [1][-]{section.A.44}{White Tiles}{appendix.A}% 240
 \BOOKMARK [1][-]{section.A.45}{Wire Gauze}{appendix.A}% 241
-\BOOKMARK [0][-]{appendix.B}{Low Tech Microscopy}{section*.13}% 242
+\BOOKMARK [0][-]{appendix.B}{Low Tech Microscopy}{section*.15}% 242
 \BOOKMARK [1][-]{section.B.1}{Water as a lens}{appendix.B}% 243
 \BOOKMARK [1][-]{section.B.2}{Perfect circles}{appendix.B}% 244
 \BOOKMARK [1][-]{section.B.3}{Slides}{appendix.B}% 245
@@ -249,21 +249,21 @@
 \BOOKMARK [2][-]{subsection.B.5.2}{Simple Microscope}{section.B.5}% 249
 \BOOKMARK [2][-]{subsection.B.5.3}{Simple Compound Microscope}{section.B.5}% 250
 \BOOKMARK [2][-]{subsection.B.5.4}{Card Bridge Microscope}{section.B.5}% 251
-\BOOKMARK [0][-]{appendix.C}{Storage of Materials}{section*.13}% 252
+\BOOKMARK [0][-]{appendix.C}{Storage of Materials}{section*.15}% 252
 \BOOKMARK [1][-]{section.C.1}{The Science Box}{appendix.C}% 253
 \BOOKMARK [1][-]{section.C.2}{Card and Picture Boxes}{appendix.C}% 254
 \BOOKMARK [1][-]{section.C.3}{Matchbox Drawers}{appendix.C}% 255
 \BOOKMARK [1][-]{section.C.4}{Dividing Boxes}{appendix.C}% 256
 \BOOKMARK [1][-]{section.C.5}{Envelopes and Bags}{appendix.C}% 257
-\BOOKMARK [0][-]{appendix.D}{Pastes and Modeling Materials}{section*.13}% 258
+\BOOKMARK [0][-]{appendix.D}{Pastes and Modeling Materials}{section*.15}% 258
 \BOOKMARK [1][-]{section.D.1}{Papier M\342ch\351}{appendix.D}% 259
 \BOOKMARK [1][-]{section.D.2}{Papier M\342ch\351 Layering}{appendix.D}% 260
 \BOOKMARK [1][-]{section.D.3}{Modeling Clay}{appendix.D}% 261
 \BOOKMARK [1][-]{section.D.4}{Paste and Sand Cement}{appendix.D}% 262
 \BOOKMARK [1][-]{section.D.5}{Flour Paste}{appendix.D}% 263
 \BOOKMARK [1][-]{section.D.6}{Casein Glue}{appendix.D}% 264
-\BOOKMARK [0][-]{appendix.E}{Making Biology Solutions}{section*.13}% 265
-\BOOKMARK [0][-]{appendix.F}{Collecting Specimens}{section*.13}% 266
+\BOOKMARK [0][-]{appendix.E}{Making Biology Solutions}{section*.15}% 265
+\BOOKMARK [0][-]{appendix.F}{Collecting Specimens}{section*.15}% 266
 \BOOKMARK [1][-]{section.F.1}{Methods of Collecting and Displaying}{appendix.F}% 267
 \BOOKMARK [2][-]{subsection.F.1.1}{Pitfall Traps}{section.F.1}% 268
 \BOOKMARK [2][-]{subsection.F.1.2}{Worm Jar}{section.F.1}% 269
@@ -277,8 +277,8 @@
 \BOOKMARK [2][-]{subsection.F.2.1}{Kingdom Fungi}{section.F.2}% 277
 \BOOKMARK [2][-]{subsection.F.2.2}{Kingdom Plantae}{section.F.2}% 278
 \BOOKMARK [2][-]{subsection.F.2.3}{Kingdom Animalia}{section.F.2}% 279
-\BOOKMARK [-1][-]{section*.83}{Interactive Learning}{}% 280
-\BOOKMARK [0][-]{appendix.G}{Visual Aids and Displays}{section*.83}% 281
+\BOOKMARK [-1][-]{section*.85}{Interactive Learning}{}% 280
+\BOOKMARK [0][-]{appendix.G}{Visual Aids and Displays}{section*.85}% 281
 \BOOKMARK [1][-]{section.G.1}{Science Corner}{appendix.G}% 282
 \BOOKMARK [1][-]{section.G.2}{Cardboard Box Displays}{appendix.G}% 283
 \BOOKMARK [2][-]{subsection.G.2.1}{Zigzag Multiboards}{section.G.2}% 284
@@ -291,7 +291,7 @@
 \BOOKMARK [1][-]{section.G.4}{Transparent Flip-Sheets}{appendix.G}% 291
 \BOOKMARK [1][-]{section.G.5}{Clothing Posters}{appendix.G}% 292
 \BOOKMARK [1][-]{section.G.6}{Magnet Boards}{appendix.G}% 293
-\BOOKMARK [0][-]{appendix.H}{Science Outside the Classroom}{section*.83}% 294
+\BOOKMARK [0][-]{appendix.H}{Science Outside the Classroom}{section*.85}% 294
 \BOOKMARK [1][-]{section.H.1}{Science Clubs}{appendix.H}% 295
 \BOOKMARK [2][-]{subsection.H.1.1}{Organizing a Club}{section.H.1}% 296
 \BOOKMARK [2][-]{subsection.H.1.2}{Activities Record Book}{section.H.1}% 297
@@ -304,13 +304,13 @@
 \BOOKMARK [1][-]{section.H.3}{Science Competitions}{appendix.H}% 304
 \BOOKMARK [1][-]{section.H.4}{Science Conferences \040and Camps}{appendix.H}% 305
 \BOOKMARK [1][-]{section.H.5}{Field Trips}{appendix.H}% 306
-\BOOKMARK [0][-]{appendix.I}{Science in the Community}{section*.83}% 307
+\BOOKMARK [0][-]{appendix.I}{Science in the Community}{section*.85}% 307
 \BOOKMARK [1][-]{section.I.1}{Science for All}{appendix.I}% 308
 \BOOKMARK [1][-]{section.I.2}{Science Target Groups}{appendix.I}% 309
 \BOOKMARK [1][-]{section.I.3}{Environmental \040Awareness}{appendix.I}% 310
 \BOOKMARK [1][-]{section.I.4}{Wildlife Conservation}{appendix.I}% 311
 \BOOKMARK [1][-]{section.I.5}{Science and Health}{appendix.I}% 312
-\BOOKMARK [0][-]{appendix.J}{HIV/AIDS Awareness}{section*.83}% 313
+\BOOKMARK [0][-]{appendix.J}{HIV/AIDS Awareness}{section*.85}% 313
 \BOOKMARK [1][-]{section.J.1}{Introduction}{appendix.J}% 314
 \BOOKMARK [1][-]{section.J.2}{AIDS - Current Information}{appendix.J}% 315
 \BOOKMARK [1][-]{section.J.3}{Description and Cause of AIDS}{appendix.J}% 316
@@ -326,4 +326,5 @@
 \BOOKMARK [1][-]{section.J.8}{Societal Issues}{appendix.J}% 326
 \BOOKMARK [1][-]{section.J.9}{Condoms}{appendix.J}% 327
 \BOOKMARK [2][-]{subsection.J.9.1}{How to Use the Condom}{section.J.9}% 328
-\BOOKMARK [0][-]{appendix.K}{Activity Template}{section*.83}% 329
+\BOOKMARK [0][-]{appendix.K}{Activity Template}{section*.85}% 329
+\BOOKMARK [0][-]{section*.87}{Index}{section*.85}% 330
